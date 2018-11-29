@@ -1,0 +1,9 @@
+---
+layout: episode
+title: ".NET in your Car!"
+date: "2010-06-22"
+episode_number: "569"
+episode_url: "http://www.dotnetrocks.com/default.aspx?ShowNum=569"
+---
+
+Carl and Richard talk to Stacy Harris and John Mulinax from Microsoft, and TJ Giuli from Ford Motor Company about Fiestaware. No, not the plates your mother serves nachos on. Fiestaware is a framework developed by students for developing in-car applications that do everything from read your emails to seeing your buddies' locations on a bing map.

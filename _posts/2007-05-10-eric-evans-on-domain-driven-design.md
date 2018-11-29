@@ -1,0 +1,9 @@
+---
+layout: episode
+title: "Eric Evans on Domain Driven Design"
+date: "2007-05-10"
+episode_number: "236"
+episode_url: "http://www.dotnetrocks.com/default.aspx?ShowNum=236"
+---
+
+Eric Evans offers his insights on good software development using Domain Driven Design techniques. 

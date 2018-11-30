@@ -9,9 +9,8 @@ permalink: /episodes
 {% for episode in paginator.posts %}
 <div class="card mb-3">
     <div class="card-body">
-        <h5 class="card-title">#{{ episode.episode_number }} - {{ episode.title }}</h5>
-        <!-- <h6 class="card-subtitle mb-2 text-muted"></h6> -->
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <h5 class="card-title"><a href="{{ episode.url }}" target="_blank">#{{ episode.episode_number }} - {{ episode.title }}</a></h5>
+        <p class="card-text">{{ episode.content | truncate: 300 }}</p>
         {% for link in episode.links %}
             <a href="{{ link.url }}" target="_blank" class="card-link">{{ link.title | truncate: 100 }}</a>
         {% endfor %}

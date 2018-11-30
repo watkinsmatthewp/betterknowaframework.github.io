@@ -2,4 +2,12 @@
 layout: page
 ---
 
-{{ content }}
+<div class="card">
+    <div class="card-body">
+        <h1 class="card-title">#{{ page.episode_number }} - {{ page.title }}</h1>
+        <p class="card-text">{{ content }}</p>
+        {% for link in page.links %}
+            <a href="{{ link.url }}" target="_blank" class="card-link">{{ link.title }}</a>
+        {% endfor %}
+    </div>
+</div>

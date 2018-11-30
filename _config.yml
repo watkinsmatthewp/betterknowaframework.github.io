@@ -1,9 +1,12 @@
-title: Better Know a Framework
+title: That Happy Time
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-paginate: 25
+paginate: 20
 
 # Build settings
+paginate_path: /_episodes/index.html
+include:
+- _episodes
 plugins:
   - jekyll-feed
   - jekyll-paginate

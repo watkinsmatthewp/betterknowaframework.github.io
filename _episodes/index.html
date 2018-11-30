@@ -1,0 +1,38 @@
+---
+layout: page
+title: Episodes
+permalink: /episodes
+---
+
+<h1>Episodes</h1>
+
+{% for episode in paginator.posts %}
+<div class="card mb-3">
+    <div class="card-body">
+        <h5 class="card-title">#{{ episode.episode_number }} - {{ episode.title }}</h5>
+        <!-- <h6 class="card-subtitle mb-2 text-muted"></h6> -->
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        {% for link in episode.links %}
+            <a href="{{ link.url }}" target="_blank" class="card-link">{{ link.title | truncate: 100 }}</a>
+        {% endfor %}
+    </div>
+</div>
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<div class="row">
+    {% if paginator.previous_page %}
+    <div class="col">
+        <a class="btn btn-primary btn-lg btn-block" href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr;
+            Newer Posts</a>
+    </div>
+    {% endif %}
+    {% if paginator.next_page %}
+    <div class="col">
+        <a class="btn btn-primary btn-lg btn-block" href="{{ paginator.next_page_path | replace: '//', '/' }}">Older
+            Posts &rarr;</a>
+    </div>
+    {% endif %}
+</div>
+{% endif %}

@@ -23,14 +23,12 @@ permalink: /episodes
 <div class="row">
     {% if paginator.previous_page %}
     <div class="col">
-        <a class="btn btn-primary btn-lg btn-block" href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr;
-            Newer Posts</a>
+        <a class="btn btn-primary btn-lg btn-block" href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr; Newer Posts</a>
     </div>
     {% endif %}
     {% if paginator.next_page %}
     <div class="col">
-        <a class="btn btn-primary btn-lg btn-block" href="{{ paginator.next_page_path | replace: '//', '/' }}">Older
-            Posts &rarr;</a>
+        <a class="btn btn-primary btn-lg btn-block" href="{{ paginator.next_page_path | replace: '//', '/' }}">Older Posts &rarr;</a>
     </div>
     {% endif %}
 </div>

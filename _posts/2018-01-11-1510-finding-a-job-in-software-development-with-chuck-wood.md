@@ -5,7 +5,7 @@ date: "2018-01-11"
 episode_number: "1510"
 episode_url: "https://www.dotnetrocks.com/?show=1510"
 better_know_a_framework:
-- title: "Browser-based Flight Simulator"
+  title: "Browser-based Flight Simulator"
   url: "http://www.geo-fs.com/"
 links:
 - title: "Real-Time Plane Tracking"

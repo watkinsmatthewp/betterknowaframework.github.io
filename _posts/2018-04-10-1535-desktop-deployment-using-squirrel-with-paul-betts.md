@@ -5,7 +5,7 @@ date: "2018-04-10"
 episode_number: "1535"
 episode_url: "https://www.dotnetrocks.com/?show=1535"
 better_know_a_framework:
-- title: "Snickler"
+  title: "Snickler"
   url: "https://github.com/snickler/EFCore-FluentStoredProcedure"
 links:
 - title: "Squirrel"

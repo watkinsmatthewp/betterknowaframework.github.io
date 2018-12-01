@@ -5,7 +5,7 @@ date: "2017-09-26"
 episode_number: "1479"
 episode_url: "https://www.dotnetrocks.com/?show=1479"
 better_know_a_framework:
-- title: "Material Design in XAML"
+  title: "Material Design in XAML"
   url: "http://materialdesigninxaml.net/"
 links:
 - title: "Jon's Blog"

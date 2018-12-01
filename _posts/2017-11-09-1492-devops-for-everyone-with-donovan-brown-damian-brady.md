@@ -5,7 +5,7 @@ date: "2017-11-09"
 episode_number: "1492"
 episode_url: "https://www.dotnetrocks.com/?show=1492"
 better_know_a_framework:
-- title: "ASUS Portable Monitor"
+  title: "ASUS Portable Monitor"
   url: "https://www.asus.com/us/Monitors/MB169BPlus/"
 links:
 - title: "Microsoft DevOps Solutions"

@@ -5,7 +5,7 @@ date: "2016-07-13"
 episode_number: "1321"
 episode_url: "https://www.dotnetrocks.com/?show=1321"
 better_know_a_framework:
-- title: "MediatR"
+  title: "MediatR"
   url: "https://jonhilton.net/2016/06/06/simplify-your-controllers-with-the-command-pattern-and-mediatr/"
 links:
 - title: "Cake"

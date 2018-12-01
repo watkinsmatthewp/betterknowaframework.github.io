@@ -5,7 +5,7 @@ date: "2017-01-31"
 episode_number: "1407"
 episode_url: "https://www.dotnetrocks.com/?show=1407"
 better_know_a_framework:
-- title: "List of Naughty Strings"
+  title: "List of Naughty Strings"
   url: "https://github.com/minimaxir/big-list-of-naughty-strings"
 links:
 - title: "Jon's Blog"

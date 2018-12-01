@@ -5,7 +5,7 @@ date: "2018-08-14"
 episode_number: "1571"
 episode_url: "https://www.dotnetrocks.com/?show=1571"
 better_know_a_framework:
-- title: "Hololens Template for Unreal Engine"
+  title: "Hololens Template for Unreal Engine"
   url: "https://github.com/ProteusVRpublic/Hololens"
 links:
 - title: "Unity3D"

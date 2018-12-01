@@ -5,7 +5,7 @@ date: "2018-11-27"
 episode_number: "1601"
 episode_url: "https://www.dotnetrocks.com/?show=1601"
 better_know_a_framework:
-- title: "Airbnb JavaScript Style Guide"
+  title: "Airbnb JavaScript Style Guide"
   url: "https://github.com/airbnb/javascript"
 links:
 - title: "Aeron Networking"

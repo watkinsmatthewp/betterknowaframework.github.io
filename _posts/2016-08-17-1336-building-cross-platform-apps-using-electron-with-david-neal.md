@@ -5,7 +5,7 @@ date: "2016-08-17"
 episode_number: "1336"
 episode_url: "https://www.dotnetrocks.com/?show=1336"
 better_know_a_framework:
-- title: "HoloLens Device Portal"
+  title: "HoloLens Device Portal"
   url: "https://developer.microsoft.com/en-us/windows/holographic/using_the_windows_device_portal"
 links:
 - title: "Electron"

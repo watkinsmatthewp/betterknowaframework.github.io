@@ -5,7 +5,7 @@ date: "2016-03-16"
 episode_number: "1270"
 episode_url: "https://www.dotnetrocks.com/?show=1270"
 better_know_a_framework:
-- title: "Bootstrap Editor"
+  title: "Bootstrap Editor"
   url: "https://pikock.github.io/bootstrap-magic/app/index.html#%21/editor"
 links:
 - title: "Babel"

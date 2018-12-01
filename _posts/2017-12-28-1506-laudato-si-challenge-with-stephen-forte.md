@@ -5,7 +5,7 @@ date: "2017-12-28"
 episode_number: "1506"
 episode_url: "https://www.dotnetrocks.com/?show=1506"
 better_know_a_framework:
-- title: "Algorithmia"
+  title: "Algorithmia"
   url: "https://algorithmia.com/"
 links:
 - title: "Laudato Si Challenge"

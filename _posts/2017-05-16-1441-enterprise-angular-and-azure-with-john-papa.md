@@ -5,7 +5,7 @@ date: "2017-05-16"
 episode_number: "1441"
 episode_url: "https://www.dotnetrocks.com/?show=1441"
 better_know_a_framework:
-- title: "I'm an Idiot"
+  title: "I'm an Idiot"
   url: "https://xkcd.com/530/"
 links:
 - title: "John's Blog"

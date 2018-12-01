@@ -5,7 +5,7 @@ date: "2016-03-08"
 episode_number: "1266"
 episode_url: "https://www.dotnetrocks.com/?show=1266"
 better_know_a_framework:
-- title: "Code Push"
+  title: "Code Push"
   url: "https://microsoft.github.io/code-push/"
 links:
 - title: "InstallR"

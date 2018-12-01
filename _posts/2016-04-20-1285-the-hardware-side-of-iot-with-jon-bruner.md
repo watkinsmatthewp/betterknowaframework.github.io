@@ -5,7 +5,7 @@ date: "2016-04-20"
 episode_number: "1285"
 episode_url: "https://www.dotnetrocks.com/?show=1285"
 better_know_a_framework:
-- title: "PageRes"
+  title: "PageRes"
   url: "https://github.com/sindresorhus/pageres"
 links:
 - title: "Jon's Blog"

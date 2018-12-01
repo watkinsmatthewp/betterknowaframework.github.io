@@ -5,7 +5,7 @@ date: "2017-02-28"
 episode_number: "1419"
 episode_url: "https://www.dotnetrocks.com/?show=1419"
 better_know_a_framework:
-- title: "Launchaco"
+  title: "Launchaco"
   url: "http://launchaco.com/"
 links:
 - title: "Vault"

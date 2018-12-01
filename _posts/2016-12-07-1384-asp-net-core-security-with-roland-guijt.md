@@ -5,7 +5,7 @@ date: "2016-12-07"
 episode_number: "1384"
 episode_url: "https://www.dotnetrocks.com/?show=1384"
 better_know_a_framework:
-- title: "ChatBot Article"
+  title: "ChatBot Article"
   url: "https://www.smashingmagazine.com/2016/11/does-conversation-hurt-or-help-the-chatbot-ux/"
 links:
 - title: "ASP.NET Core Security"

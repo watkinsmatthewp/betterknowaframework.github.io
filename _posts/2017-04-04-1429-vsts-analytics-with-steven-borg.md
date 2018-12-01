@@ -5,7 +5,7 @@ date: "2017-04-04"
 episode_number: "1429"
 episode_url: "https://www.dotnetrocks.com/?show=1429"
 better_know_a_framework:
-- title: "Carl's Ketogenic Podcast"
+  title: "Carl's Ketogenic Podcast"
   url: "http://2ketodudes.com"
 links:
 - title: "Ketogenic Forums"

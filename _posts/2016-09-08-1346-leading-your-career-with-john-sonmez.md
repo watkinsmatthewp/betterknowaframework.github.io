@@ -5,7 +5,7 @@ date: "2016-09-08"
 episode_number: "1346"
 episode_url: "https://www.dotnetrocks.com/?show=1346"
 better_know_a_framework:
-- title: "Ketogenic Diet Info"
+  title: "Ketogenic Diet Info"
   url: "http://links.2keto.com"
 links:
 - title: "The Simple Programmer"

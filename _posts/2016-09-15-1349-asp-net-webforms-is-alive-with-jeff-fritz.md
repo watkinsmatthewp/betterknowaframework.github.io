@@ -5,7 +5,7 @@ date: "2016-09-15"
 episode_number: "1349"
 episode_url: "https://www.dotnetrocks.com/?show=1349"
 better_know_a_framework:
-- title: "NES Emulator on HoloLens"
+  title: "NES Emulator on HoloLens"
   url: "http://hackaday.com/2016/08/24/hololens-nes-emulator-for-augmented-retro-gaming/"
 links:
 - title: ".NET Framework 4.6.2"

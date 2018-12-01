@@ -5,7 +5,7 @@ date: "2017-02-21"
 episode_number: "1416"
 episode_url: "https://www.dotnetrocks.com/?show=1416"
 better_know_a_framework:
-- title: "Death Star Grinder"
+  title: "Death Star Grinder"
   url: "https://stuffous.com/products/death-star-grinder"
 links:
 - title: "Paramore"

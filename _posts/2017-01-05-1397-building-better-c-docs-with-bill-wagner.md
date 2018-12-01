@@ -5,7 +5,7 @@ date: "2017-01-05"
 episode_number: "1397"
 episode_url: "https://www.dotnetrocks.com/?show=1397"
 better_know_a_framework:
-- title: "Window 10 on ARM"
+  title: "Window 10 on ARM"
   url: "https://www.engadget.com/2016/12/07/windows-10-snapdragon-arm/"
 links:
 - title: "Git Extensions"

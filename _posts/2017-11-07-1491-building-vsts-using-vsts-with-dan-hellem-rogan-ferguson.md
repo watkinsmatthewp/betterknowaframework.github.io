@@ -5,7 +5,7 @@ date: "2017-11-07"
 episode_number: "1491"
 episode_url: "https://www.dotnetrocks.com/?show=1491"
 better_know_a_framework:
-- title: "Yarn"
+  title: "Yarn"
   url: "https://yarnpkg.com/en/"
 links:
 - title: "VSTS Agile Tools"

@@ -5,7 +5,7 @@ date: "2018-10-09"
 episode_number: "1587"
 episode_url: "https://www.dotnetrocks.com/?show=1587"
 better_know_a_framework:
-- title: "Win95 Electron App"
+  title: "Win95 Electron App"
   url: "https://www.theverge.com/2018/8/23/17773180/microsoft-windows-95-app-download-features"
 links:
 - title: "Quantum Development Kit"

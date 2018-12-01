@@ -5,7 +5,7 @@ date: "2017-05-02"
 episode_number: "1437"
 episode_url: "https://www.dotnetrocks.com/?show=1437"
 better_know_a_framework:
-- title: "Joe Coleman"
+  title: "Joe Coleman"
   url: "http://getcoleman.com/"
 links:
 - title: "Angular"

@@ -5,7 +5,7 @@ date: "2016-08-18"
 episode_number: "1337"
 episode_url: "https://www.dotnetrocks.com/?show=1337"
 better_know_a_framework:
-- title: "Episode 100 on YouTube"
+  title: "Episode 100 on YouTube"
   url: "https://www.youtube.com/watch?v=HU91Z444BAE"
 links:
 - title: ".NET on Google Cloud Platform"

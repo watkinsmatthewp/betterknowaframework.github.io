@@ -5,7 +5,7 @@ date: "2016-05-04"
 episode_number: "1291"
 episode_url: "https://www.dotnetrocks.com/?show=1291"
 better_know_a_framework:
-- title: "Polly"
+  title: "Polly"
   url: "https://github.com/App-vNext/Polly"
 links:
 - title: "Polly.js"

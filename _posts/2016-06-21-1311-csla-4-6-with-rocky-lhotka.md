@@ -5,7 +5,7 @@ date: "2016-06-21"
 episode_number: "1311"
 episode_url: "https://www.dotnetrocks.com/?show=1311"
 better_know_a_framework:
-- title: "256GB microSD card"
+  title: "256GB microSD card"
   url: "http://www.theverge.com/circuitbreaker/2016/5/10/11651020/samsung-massive-256gb-microsd-card"
 links:
 - title: "CSLA.NET"

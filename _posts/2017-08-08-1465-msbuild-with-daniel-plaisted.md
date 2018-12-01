@@ -5,7 +5,7 @@ date: "2017-08-08"
 episode_number: "1465"
 episode_url: "https://www.dotnetrocks.com/?show=1465"
 better_know_a_framework:
-- title: "Geolocation in Xamarin"
+  title: "Geolocation in Xamarin"
   url: "https://github.com/jamesmontemagno/GeolocatorPlugin"
 links:
 - title: "Microsoft Extensiblity Framework"

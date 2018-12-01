@@ -5,7 +5,7 @@ date: "2016-05-24"
 episode_number: "1299"
 episode_url: "https://www.dotnetrocks.com/?show=1299"
 better_know_a_framework:
-- title: "ClearBit"
+  title: "ClearBit"
   url: "https://clearbit.com/"
 links:
 - title: "Vittorio's Blog"

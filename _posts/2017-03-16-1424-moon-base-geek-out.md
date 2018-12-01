@@ -5,7 +5,7 @@ date: "2017-03-16"
 episode_number: "1424"
 episode_url: "https://www.dotnetrocks.com/?show=1424"
 better_know_a_framework:
-- title: "Bogus"
+  title: "Bogus"
   url: "https://github.com/bchavez/Bogus"
 links:
 - title: "Astronaut Vision in Free Fall"

@@ -5,7 +5,7 @@ date: "2016-09-22"
 episode_number: "1352"
 episode_url: "https://www.dotnetrocks.com/?show=1352"
 better_know_a_framework:
-- title: "Ricoh Theta S"
+  title: "Ricoh Theta S"
   url: "https://theta360.com/en/about/theta/s.html"
 links:
 - title: "Facebook 3D 360 Camera"

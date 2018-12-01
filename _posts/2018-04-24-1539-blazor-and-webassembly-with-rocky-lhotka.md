@@ -5,7 +5,7 @@ date: "2018-04-24"
 episode_number: "1539"
 episode_url: "https://www.dotnetrocks.com/?show=1539"
 better_know_a_framework:
-- title: "FizzBuzz Enterprise Edition"
+  title: "FizzBuzz Enterprise Edition"
   url: "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition"
 links:
 - title: "WebAssembly"

@@ -5,7 +5,7 @@ date: "2018-10-04"
 episode_number: "1586"
 episode_url: "https://www.dotnetrocks.com/?show=1586"
 better_know_a_framework:
-- title: "Native Script Playground"
+  title: "Native Script Playground"
   url: "https://nativescript-vue.org/en/docs/getting-started/playground-tutorial/"
 links:
 - title: "TurtleSec"

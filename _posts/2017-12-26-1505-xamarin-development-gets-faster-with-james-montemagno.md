@@ -5,7 +5,7 @@ date: "2017-12-26"
 episode_number: "1505"
 episode_url: "https://www.dotnetrocks.com/?show=1505"
 better_know_a_framework:
-- title: "Obesity Code Podcast"
+  title: "Obesity Code Podcast"
   url: "http://obesitycodepodcast.com/"
 links:
 - title: "Calendly"

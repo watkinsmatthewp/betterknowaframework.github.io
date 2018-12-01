@@ -5,7 +5,7 @@ date: "2016-08-02"
 episode_number: "1329"
 episode_url: "https://www.dotnetrocks.com/?show=1329"
 better_know_a_framework:
-- title: "Algolia"
+  title: "Algolia"
   url: "https://www.algolia.com/"
 ---
 

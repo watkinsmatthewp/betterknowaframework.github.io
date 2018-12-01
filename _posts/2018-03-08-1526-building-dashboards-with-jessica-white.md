@@ -5,7 +5,7 @@ date: "2018-03-08"
 episode_number: "1526"
 episode_url: "https://www.dotnetrocks.com/?show=1526"
 better_know_a_framework:
-- title: "GDax"
+  title: "GDax"
   url: "https://www.gdax.com/"
 links:
 - title: "Zabbix"

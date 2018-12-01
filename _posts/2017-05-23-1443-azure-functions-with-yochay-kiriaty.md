@@ -5,7 +5,7 @@ date: "2017-05-23"
 episode_number: "1443"
 episode_url: "https://www.dotnetrocks.com/?show=1443"
 better_know_a_framework:
-- title: "Azure Code Samples"
+  title: "Azure Code Samples"
   url: "https://azure.microsoft.com/en-us/resources/samples/"
 links:
 - title: "Azure App Platform"

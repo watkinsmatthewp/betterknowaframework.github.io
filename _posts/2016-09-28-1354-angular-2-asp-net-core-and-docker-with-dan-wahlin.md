@@ -5,7 +5,7 @@ date: "2016-09-28"
 episode_number: "1354"
 episode_url: "https://www.dotnetrocks.com/?show=1354"
 better_know_a_framework:
-- title: "Stupid CSS Tricks"
+  title: "Stupid CSS Tricks"
   url: "http://alancrissey.com/articles/stupid-css-tricks/"
 links:
 - title: "SQL Server Developer Edition is Free"

@@ -5,7 +5,7 @@ date: "2017-02-02"
 episode_number: "1409"
 episode_url: "https://www.dotnetrocks.com/?show=1409"
 better_know_a_framework:
-- title: "ScrapySharp"
+  title: "ScrapySharp"
   url: "https://www.nuget.org/packages/ScrapySharp"
 links:
 - title: "CloudScribe"

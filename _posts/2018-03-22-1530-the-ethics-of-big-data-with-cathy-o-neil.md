@@ -5,7 +5,7 @@ date: "2018-03-22"
 episode_number: "1530"
 episode_url: "https://www.dotnetrocks.com/?show=1530"
 better_know_a_framework:
-- title: "SVG Animated Login Avatar"
+  title: "SVG Animated Login Avatar"
   url: "https://twitter.com/dsenneff/status/965393299614859265"
 links:
 - title: "Weapons of Math Destruction"

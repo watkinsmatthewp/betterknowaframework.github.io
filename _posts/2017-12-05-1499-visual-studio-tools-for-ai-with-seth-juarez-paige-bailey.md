@@ -5,7 +5,7 @@ date: "2017-12-05"
 episode_number: "1499"
 episode_url: "https://www.dotnetrocks.com/?show=1499"
 better_know_a_framework:
-- title: "FakeSpot"
+  title: "FakeSpot"
   url: "fakespot.com"
 links:
 - title: "nuML"

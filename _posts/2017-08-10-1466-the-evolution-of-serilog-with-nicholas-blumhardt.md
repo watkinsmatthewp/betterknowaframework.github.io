@@ -5,7 +5,7 @@ date: "2017-08-10"
 episode_number: "1466"
 episode_url: "https://www.dotnetrocks.com/?show=1466"
 better_know_a_framework:
-- title: "Settings Plugin"
+  title: "Settings Plugin"
   url: "https://github.com/jamesmontemagno/SettingsPlugin"
 links:
 - title: "Autofac"

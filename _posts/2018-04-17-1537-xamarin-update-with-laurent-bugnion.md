@@ -5,7 +5,7 @@ date: "2018-04-17"
 episode_number: "1537"
 episode_url: "https://www.dotnetrocks.com/?show=1537"
 better_know_a_framework:
-- title: "Migrating from node.js to AWS Lambda"
+  title: "Migrating from node.js to AWS Lambda"
   url: "https://effortless-serverless.com/serverless/claudia/migration/2018/03/29/serverless-migration/"
 links:
 - title: "claudia.js"

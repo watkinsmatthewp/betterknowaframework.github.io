@@ -5,7 +5,7 @@ date: "2018-06-12"
 episode_number: "1553"
 episode_url: "https://www.dotnetrocks.com/?show=1553"
 better_know_a_framework:
-- title: "Visual Studio IntelliCode"
+  title: "Visual Studio IntelliCode"
   url: "https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode"
 links:
 - title: "Microsoft to acquire GitHub"

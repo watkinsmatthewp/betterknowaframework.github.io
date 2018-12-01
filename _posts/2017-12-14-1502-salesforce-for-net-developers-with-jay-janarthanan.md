@@ -5,7 +5,7 @@ date: "2017-12-14"
 episode_number: "1502"
 episode_url: "https://www.dotnetrocks.com/?show=1502"
 better_know_a_framework:
-- title: "DailyWTF Calculated"
+  title: "DailyWTF Calculated"
   url: "https://thedailywtf.com/articles/calculated"
 links:
 - title: "ApexSharp"

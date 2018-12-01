@@ -5,7 +5,7 @@ date: "2016-07-05"
 episode_number: "1317"
 episode_url: "https://www.dotnetrocks.com/?show=1317"
 better_know_a_framework:
-- title: "Warden"
+  title: "Warden"
   url: "https://getwarden.net/"
 links:
 - title: "Continuous Delivery"

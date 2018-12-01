@@ -5,7 +5,7 @@ date: "2016-04-05"
 episode_number: "1278"
 episode_url: "https://www.dotnetrocks.com/?show=1278"
 better_know_a_framework:
-- title: "Hubl.in"
+  title: "Hubl.in"
   url: "https://hubl.in/"
 links:
 - title: "Prism on GitHub"

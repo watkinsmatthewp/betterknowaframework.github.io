@@ -5,7 +5,7 @@ date: "2016-08-16"
 episode_number: "1335"
 episode_url: "https://www.dotnetrocks.com/?show=1335"
 better_know_a_framework:
-- title: "ShutIt"
+  title: "ShutIt"
   url: "https://github.com/ianmiell/shutit"
 links:
 - title: "Stackify"

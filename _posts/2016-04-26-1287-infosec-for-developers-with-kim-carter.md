@@ -5,7 +5,7 @@ date: "2016-04-26"
 episode_number: "1287"
 episode_url: "https://www.dotnetrocks.com/?show=1287"
 better_know_a_framework:
-- title: "Breakpoint Generator Extension"
+  title: "Breakpoint Generator Extension"
   url: "https://blogs.msdn.microsoft.com/visualstudioalm/2015/11/19/breakpoint-generator-extension/"
 links:
 - title: "BinaryMist"

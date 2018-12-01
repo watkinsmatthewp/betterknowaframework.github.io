@@ -5,7 +5,7 @@ date: "2016-10-25"
 episode_number: "1365"
 episode_url: "https://www.dotnetrocks.com/?show=1365"
 better_know_a_framework:
-- title: "Best Android Apps"
+  title: "Best Android Apps"
   url: "https://www.androidpit.com/best-android-apps"
 links:
 - title: "James' Blog"

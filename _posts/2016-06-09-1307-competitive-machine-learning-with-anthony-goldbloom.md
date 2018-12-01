@@ -5,7 +5,7 @@ date: "2016-06-09"
 episode_number: "1307"
 episode_url: "https://www.dotnetrocks.com/?show=1307"
 better_know_a_framework:
-- title: "MVC Controller Explained"
+  title: "MVC Controller Explained"
   url: "https://medium.freecodecamp.com/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053"
 links:
 - title: "Kaggle"

@@ -5,7 +5,7 @@ date: "2017-01-25"
 episode_number: "1405"
 episode_url: "https://www.dotnetrocks.com/?show=1405"
 better_know_a_framework:
-- title: "Functional JavaScript"
+  title: "Functional JavaScript"
   url: "https://gziolo.pl/2016/12/21/exploring-functional-javascript/"
 links:
 - title: "ASP.NET Core"

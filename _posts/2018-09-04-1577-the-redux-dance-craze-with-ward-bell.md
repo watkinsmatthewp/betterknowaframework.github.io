@@ -5,7 +5,7 @@ date: "2018-09-04"
 episode_number: "1577"
 episode_url: "https://www.dotnetrocks.com/?show=1577"
 better_know_a_framework:
-- title: "Cornify"
+  title: "Cornify"
   url: "https://www.cornify.com/"
 links:
 - title: "Angular"

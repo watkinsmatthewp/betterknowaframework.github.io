@@ -5,7 +5,7 @@ date: "2016-07-20"
 episode_number: "1324"
 episode_url: "https://www.dotnetrocks.com/?show=1324"
 better_know_a_framework:
-- title: "Comparing Bootstrap Versions"
+  title: "Comparing Bootstrap Versions"
   url: "https://medium.com/wdstack/bootstrap-4-whats-new-visual-guide-c84dd81d8387"
 links:
 - title: "Coding After Work Podcast"

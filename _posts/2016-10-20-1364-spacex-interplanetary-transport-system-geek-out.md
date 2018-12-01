@@ -5,7 +5,7 @@ date: "2016-10-20"
 episode_number: "1364"
 episode_url: "https://www.dotnetrocks.com/?show=1364"
 better_know_a_framework:
-- title: "Making Humans a Multiplanetary Species Video"
+  title: "Making Humans a Multiplanetary Species Video"
   url: "https://www.youtube.com/watch?v=H7Uyfqi_TE8"
 links:
 - title: "SpaceX Interplanetary Transport System"

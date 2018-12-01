@@ -5,7 +5,7 @@ date: "2017-03-08"
 episode_number: "1422"
 episode_url: "https://www.dotnetrocks.com/?show=1422"
 better_know_a_framework:
-- title: "PoshARM"
+  title: "PoshARM"
   url: "http://asaconsultant.blogspot.co.uk/2017/01/something-completely-different-posharm.html"
 links:
 - title: "Visual Studio 2017"

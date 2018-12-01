@@ -5,7 +5,7 @@ date: "2018-08-16"
 episode_number: "1572"
 episode_url: "https://www.dotnetrocks.com/?show=1572"
 better_know_a_framework:
-- title: "VR/AR Art"
+  title: "VR/AR Art"
   url: "https://twitter.com/WITHIN/status/1024765587522605056?s=09"
 links:
 - title: "MediSwarm"

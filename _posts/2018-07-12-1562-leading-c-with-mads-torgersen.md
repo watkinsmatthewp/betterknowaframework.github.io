@@ -5,7 +5,7 @@ date: "2018-07-12"
 episode_number: "1562"
 episode_url: "https://www.dotnetrocks.com/?show=1562"
 better_know_a_framework:
-- title: "ExtensionMethod.NET"
+  title: "ExtensionMethod.NET"
   url: "http://extensionmethod.net/"
 links:
 - title: "Mads' Blog Post on Nullable Reference Types"

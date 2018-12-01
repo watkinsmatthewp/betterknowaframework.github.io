@@ -5,7 +5,7 @@ date: "2018-03-20"
 episode_number: "1529"
 episode_url: "https://www.dotnetrocks.com/?show=1529"
 better_know_a_framework:
-- title: "Azure Data Architecture Guide"
+  title: "Azure Data Architecture Guide"
   url: "https://docs.microsoft.com/en-us/azure/architecture/data-guide/"
 links:
 - title: "Apache JMeter"

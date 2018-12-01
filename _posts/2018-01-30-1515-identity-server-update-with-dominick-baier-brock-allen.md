@@ -5,7 +5,7 @@ date: "2018-01-30"
 episode_number: "1515"
 episode_url: "https://www.dotnetrocks.com/?show=1515"
 better_know_a_framework:
-- title: "boardgame.io"
+  title: "boardgame.io"
   url: "http://boardgame.io"
 links:
 - title: "IdentityServer"

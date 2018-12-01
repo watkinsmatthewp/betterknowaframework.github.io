@@ -5,7 +5,7 @@ date: "2017-11-02"
 episode_number: "1490"
 episode_url: "https://www.dotnetrocks.com/?show=1490"
 better_know_a_framework:
-- title: "JSON Generator"
+  title: "JSON Generator"
   url: "https://www.json-generator.com/"
 links:
 - title: "SQL Server Data Tools"

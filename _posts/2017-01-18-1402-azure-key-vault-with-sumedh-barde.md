@@ -5,7 +5,7 @@ date: "2017-01-18"
 episode_number: "1402"
 episode_url: "https://www.dotnetrocks.com/?show=1402"
 better_know_a_framework:
-- title: "LinkSys VELOP"
+  title: "LinkSys VELOP"
   url: "http://www.multivu.com/players/English/7650551-linksys-velop-whole-home-wi-fi/?c=y"
 links:
 - title: "Azure Key Vault"

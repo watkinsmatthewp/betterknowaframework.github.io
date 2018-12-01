@@ -5,7 +5,7 @@ date: "2016-11-17"
 episode_number: "1376"
 episode_url: "https://www.dotnetrocks.com/?show=1376"
 better_know_a_framework:
-- title: "SourceTree"
+  title: "SourceTree"
   url: "https://www.sourcetreeapp.com/"
 links:
 - title: ".NET Core Roadmap"

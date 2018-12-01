@@ -5,7 +5,7 @@ date: "2017-10-24"
 episode_number: "1487"
 episode_url: "https://www.dotnetrocks.com/?show=1487"
 better_know_a_framework:
-- title: "Rust"
+  title: "Rust"
   url: "https://www.rust-lang.org/en-US/"
 links:
 - title: "SourceGear"

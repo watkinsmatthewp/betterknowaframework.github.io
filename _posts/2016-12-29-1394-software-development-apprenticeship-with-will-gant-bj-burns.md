@@ -5,7 +5,7 @@ date: "2016-12-29"
 episode_number: "1394"
 episode_url: "https://www.dotnetrocks.com/?show=1394"
 better_know_a_framework:
-- title: "Computer Vision using Python"
+  title: "Computer Vision using Python"
   url: "https://www.youtube.com/watch?v=UZSm7Q2bZoc"
 links:
 - title: "SimpleCV"

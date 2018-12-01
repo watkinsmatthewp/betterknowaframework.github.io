@@ -5,7 +5,7 @@ date: "2018-02-27"
 episode_number: "1523"
 episode_url: "https://www.dotnetrocks.com/?show=1523"
 better_know_a_framework:
-- title: "Prepack"
+  title: "Prepack"
   url: "https://prepack.io/"
 links:
 - title: "Docker for Windows"

@@ -5,7 +5,7 @@ date: "2017-09-21"
 episode_number: "1478"
 episode_url: "https://www.dotnetrocks.com/?show=1478"
 better_know_a_framework:
-- title: "Content Moderator"
+  title: "Content Moderator"
   url: "https://azure.microsoft.com/en-us/services/cognitive-services/content-moderator/"
 links:
 - title: "Azure Event Grid"

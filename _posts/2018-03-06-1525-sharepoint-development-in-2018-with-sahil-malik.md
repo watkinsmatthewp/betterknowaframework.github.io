@@ -5,7 +5,7 @@ date: "2018-03-06"
 episode_number: "1525"
 episode_url: "https://www.dotnetrocks.com/?show=1525"
 better_know_a_framework:
-- title: "DNSimple C#"
+  title: "DNSimple C#"
   url: "https://github.com/anderly/dnsimple-csharp"
 links:
 - title: "SharePoint on Azure"

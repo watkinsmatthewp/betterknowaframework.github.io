@@ -5,7 +5,7 @@ date: "2018-09-25"
 episode_number: "1583"
 episode_url: "https://www.dotnetrocks.com/?show=1583"
 better_know_a_framework:
-- title: "XCMD"
+  title: "XCMD"
   url: "https://github.com/darshanmarathe/xcmd"
 links:
 - title: "SignalR"

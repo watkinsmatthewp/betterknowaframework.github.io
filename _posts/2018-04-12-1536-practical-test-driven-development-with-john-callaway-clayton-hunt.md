@@ -5,7 +5,7 @@ date: "2018-04-12"
 episode_number: "1536"
 episode_url: "https://www.dotnetrocks.com/?show=1536"
 better_know_a_framework:
-- title: "Julia"
+  title: "Julia"
   url: "https://julialang.org/"
 links:
 - title: "Ninject"

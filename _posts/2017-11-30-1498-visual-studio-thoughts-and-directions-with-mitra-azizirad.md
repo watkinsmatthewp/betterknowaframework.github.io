@@ -5,7 +5,7 @@ date: "2017-11-30"
 episode_number: "1498"
 episode_url: "https://www.dotnetrocks.com/?show=1498"
 better_know_a_framework:
-- title: "JavaScript for Dinosaurs"
+  title: "JavaScript for Dinosaurs"
   url: "https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70"
 links:
 - title: "AI School"

@@ -5,7 +5,7 @@ date: "2018-04-26"
 episode_number: "1540"
 episode_url: "https://www.dotnetrocks.com/?show=1540"
 better_know_a_framework:
-- title: "Entity Framework Plus"
+  title: "Entity Framework Plus"
   url: "http://entityframework-plus.net/"
 links:
 - title: "Xamarin Forms on the Web"

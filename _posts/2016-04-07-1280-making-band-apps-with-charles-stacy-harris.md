@@ -5,7 +5,7 @@ date: "2016-04-07"
 episode_number: "1280"
 episode_url: "https://www.dotnetrocks.com/?show=1280"
 better_know_a_framework:
-- title: "vue.js"
+  title: "vue.js"
   url: "http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/"
 links:
 - title: "Microsoft Band Developer Site"

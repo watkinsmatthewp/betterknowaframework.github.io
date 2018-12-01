@@ -5,7 +5,7 @@ date: "2016-05-10"
 episode_number: "1293"
 episode_url: "https://www.dotnetrocks.com/?show=1293"
 better_know_a_framework:
-- title: "Microsoft Cognitive Services"
+  title: "Microsoft Cognitive Services"
   url: "https://www.microsoft.com/cognitive-services/"
 links:
 - title: "iDesign"

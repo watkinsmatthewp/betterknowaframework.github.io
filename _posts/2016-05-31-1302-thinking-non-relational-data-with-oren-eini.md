@@ -5,7 +5,7 @@ date: "2016-05-31"
 episode_number: "1302"
 episode_url: "https://www.dotnetrocks.com/?show=1302"
 better_know_a_framework:
-- title: "DeckHub"
+  title: "DeckHub"
   url: "https://getdeckhub.com/"
 links:
 - title: "RavenDB"

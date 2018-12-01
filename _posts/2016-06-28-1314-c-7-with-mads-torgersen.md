@@ -5,7 +5,7 @@ date: "2016-06-28"
 episode_number: "1314"
 episode_url: "https://www.dotnetrocks.com/?show=1314"
 better_know_a_framework:
-- title: "EntityFramework Reverse POCO Generator"
+  title: "EntityFramework Reverse POCO Generator"
   url: "https://visualstudiogallery.msdn.microsoft.com/ee4fcff9-0c4c-4179-afd9-7a2fb90f5838"
 links:
 - title: "Roslyn on GitHub"

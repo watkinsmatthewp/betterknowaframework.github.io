@@ -5,7 +5,7 @@ date: "2016-09-14"
 episode_number: "1348"
 episode_url: "https://www.dotnetrocks.com/?show=1348"
 better_know_a_framework:
-- title: "LattePanda"
+  title: "LattePanda"
   url: "http://www.lattepanda.com/"
 links:
 - title: "Utilikilt"

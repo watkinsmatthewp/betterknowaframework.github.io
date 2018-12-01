@@ -5,7 +5,7 @@ date: "2017-02-16"
 episode_number: "1415"
 episode_url: "https://www.dotnetrocks.com/?show=1415"
 better_know_a_framework:
-- title: "DARPA Snare"
+  title: "DARPA Snare"
   url: "https://www.engadget.com/2017/02/06/darpa-sidearm-system-snares-drones/"
 links:
 - title: "National Ignition Facility"

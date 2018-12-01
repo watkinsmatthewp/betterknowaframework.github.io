@@ -5,7 +5,7 @@ date: "2016-11-15"
 episode_number: "1374"
 episode_url: "https://www.dotnetrocks.com/?show=1374"
 better_know_a_framework:
-- title: "CircleCI"
+  title: "CircleCI"
   url: "https://circleci.com/"
 links:
 - title: "Steve's Blog"

@@ -5,7 +5,7 @@ date: "2016-11-16"
 episode_number: "1375"
 episode_url: "https://www.dotnetrocks.com/?show=1375"
 better_know_a_framework:
-- title: "Yarn"
+  title: "Yarn"
   url: "https://yarnpkg.com/"
 links:
 - title: "Railway Oriented Programming"

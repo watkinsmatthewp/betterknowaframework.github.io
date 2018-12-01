@@ -5,7 +5,7 @@ date: "2016-10-13"
 episode_number: "1361"
 episode_url: "https://www.dotnetrocks.com/?show=1361"
 better_know_a_framework:
-- title: "Alexa Prize"
+  title: "Alexa Prize"
   url: "http://www.allthingsdistributed.com/2016/09/alexa-fund-conversational-ai.html"
 links:
 - title: ".NET Meetups"

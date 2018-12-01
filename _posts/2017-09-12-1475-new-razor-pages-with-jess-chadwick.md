@@ -5,7 +5,7 @@ date: "2017-09-12"
 episode_number: "1475"
 episode_url: "https://www.dotnetrocks.com/?show=1475"
 better_know_a_framework:
-- title: "Raspberry Pi Saw Jig"
+  title: "Raspberry Pi Saw Jig"
   url: "https://www.youtube.com/watch?v=399oHwYuAG8"
 links:
 - title: "Razor Pages"

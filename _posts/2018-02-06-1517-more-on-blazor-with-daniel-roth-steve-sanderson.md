@@ -5,7 +5,7 @@ date: "2018-02-06"
 episode_number: "1517"
 episode_url: "https://www.dotnetrocks.com/?show=1517"
 better_know_a_framework:
-- title: "Protecting customers from being intimidated into making unnecessary purchases"
+  title: "Protecting customers from being intimidated into making unnecessary purchases"
   url: "https://cloudblogs.microsoft.com/microsoftsecure/2018/01/30/protecting-customers-from-being-intimidated-into-making-an-unnecessary-purchase/"
 links:
 - title: "Blazor at ASP.NET on GitHub"

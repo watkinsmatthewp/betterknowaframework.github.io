@@ -5,7 +5,7 @@ date: "2018-07-05"
 episode_number: "1560"
 episode_url: "https://www.dotnetrocks.com/?show=1560"
 better_know_a_framework:
-- title: "vuesax"
+  title: "vuesax"
   url: "https://lusaxweb.github.io/vuesax/"
 links:
 - title: "Web Essentials 2017"

@@ -5,7 +5,7 @@ date: "2018-02-20"
 episode_number: "1521"
 episode_url: "https://www.dotnetrocks.com/?show=1521"
 better_know_a_framework:
-- title: "C# in Depth"
+  title: "C# in Depth"
   url: "http://csharpindepth.com/"
 links:
 - title: "Effective C#"

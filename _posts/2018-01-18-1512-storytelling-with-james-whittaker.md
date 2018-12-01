@@ -5,7 +5,7 @@ date: "2018-01-18"
 episode_number: "1512"
 episode_url: "https://www.dotnetrocks.com/?show=1512"
 better_know_a_framework:
-- title: "Can I Use"
+  title: "Can I Use"
   url: "https://caniuse.com/"
 links:
 - title: "Art of Storytelling"

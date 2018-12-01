@@ -5,7 +5,7 @@ date: "2017-07-11"
 episode_number: "1457"
 episode_url: "https://www.dotnetrocks.com/?show=1457"
 better_know_a_framework:
-- title: "BringCast"
+  title: "BringCast"
   url: "http://www.bringcast.com/"
 links:
 - title: "Adobe XD"

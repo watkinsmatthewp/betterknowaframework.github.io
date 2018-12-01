@@ -5,7 +5,7 @@ date: "2018-08-02"
 episode_number: "1568"
 episode_url: "https://www.dotnetrocks.com/?show=1568"
 better_know_a_framework:
-- title: "Electric Scooter Sharing"
+  title: "Electric Scooter Sharing"
   url: "https://www.limebike.com/electric-scooter"
 links:
 - title: "PhoneGap"

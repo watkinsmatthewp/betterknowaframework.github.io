@@ -5,7 +5,7 @@ date: "2016-12-13"
 episode_number: "1386"
 episode_url: "https://www.dotnetrocks.com/?show=1386"
 better_know_a_framework:
-- title: "DevIntersection Europe"
+  title: "DevIntersection Europe"
   url: "https://devintersectioneurope.com"
 ---
 

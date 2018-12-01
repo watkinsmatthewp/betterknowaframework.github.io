@@ -5,7 +5,7 @@ date: "2018-02-22"
 episode_number: "1522"
 episode_url: "https://www.dotnetrocks.com/?show=1522"
 better_know_a_framework:
-- title: ".NET and WebAssembly"
+  title: ".NET and WebAssembly"
   url: "https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx"
 links:
 - title: "Black Girls Code"

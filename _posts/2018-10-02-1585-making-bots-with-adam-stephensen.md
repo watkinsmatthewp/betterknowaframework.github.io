@@ -5,7 +5,7 @@ date: "2018-10-02"
 episode_number: "1585"
 episode_url: "https://www.dotnetrocks.com/?show=1585"
 better_know_a_framework:
-- title: "Linus Therapy"
+  title: "Linus Therapy"
   url: "https://arstechnica.com/gadgets/2018/09/linus-torvalds-apologizes-for-years-of-being-a-jerk-takes-time-off-to-learn-empathy/"
 links:
 - title: "QnA Maker"

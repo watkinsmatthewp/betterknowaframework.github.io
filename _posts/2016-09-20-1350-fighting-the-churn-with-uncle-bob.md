@@ -5,7 +5,7 @@ date: "2016-09-20"
 episode_number: "1350"
 episode_url: "https://www.dotnetrocks.com/?show=1350"
 better_know_a_framework:
-- title: "DynamicMethod Class"
+  title: "DynamicMethod Class"
   url: "https://msdn.microsoft.com/en-us/library/system.reflection.emit.dynamicmethod.aspx?f=255"
 links:
 - title: "Uncle Bob's Blog Post on Churn"

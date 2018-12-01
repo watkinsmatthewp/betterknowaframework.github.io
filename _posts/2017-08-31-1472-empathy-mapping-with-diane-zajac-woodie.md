@@ -5,7 +5,7 @@ date: "2017-08-31"
 episode_number: "1472"
 episode_url: "https://www.dotnetrocks.com/?show=1472"
 better_know_a_framework:
-- title: "Secure Storage for Xamarin"
+  title: "Secure Storage for Xamarin"
   url: "https://github.com/sameerkapps/SecureStorage"
 links:
 - title: "Inmates Are Running the Asylum"

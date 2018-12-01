@@ -5,7 +5,7 @@ date: "2017-06-20"
 episode_number: "1451"
 episode_url: "https://www.dotnetrocks.com/?show=1451"
 better_know_a_framework:
-- title: "MetaMath"
+  title: "MetaMath"
   url: "http://us.metamath.org/"
 links:
 - title: "Xamarin Settings Plugin"

@@ -5,7 +5,7 @@ date: "2016-10-06"
 episode_number: "1358"
 episode_url: "https://www.dotnetrocks.com/?show=1358"
 better_know_a_framework:
-- title: "Gaming Headset"
+  title: "Gaming Headset"
   url: "https://www.amazon.com/Mutrees-Microphone-Headphones-Cancelling-PlayStation/dp/B01ILIWRYY"
 links:
 - title: "Sennheiser ME 3"

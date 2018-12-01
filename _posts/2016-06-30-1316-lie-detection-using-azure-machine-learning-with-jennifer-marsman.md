@@ -5,7 +5,7 @@ date: "2016-06-30"
 episode_number: "1316"
 episode_url: "https://www.dotnetrocks.com/?show=1316"
 better_know_a_framework:
-- title: "Free Programming Books"
+  title: "Free Programming Books"
   url: "https://github.com/vhf/free-programming-books"
 links:
 - title: "Emotiv Headset"

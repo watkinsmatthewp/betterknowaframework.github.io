@@ -5,7 +5,7 @@ date: "2016-04-13"
 episode_number: "1282"
 episode_url: "https://www.dotnetrocks.com/?show=1282"
 better_know_a_framework:
-- title: "Squirrel"
+  title: "Squirrel"
   url: "https://github.com/Squirrel"
 links:
 - title: "Pragmatic DevOps"

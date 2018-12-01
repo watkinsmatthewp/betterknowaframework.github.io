@@ -5,7 +5,7 @@ date: "2016-08-31"
 episode_number: "1342"
 episode_url: "https://www.dotnetrocks.com/?show=1342"
 better_know_a_framework:
-- title: "TrashExif"
+  title: "TrashExif"
   url: "https://itunes.apple.com/us/app/trashexif-metadata-photo-remover/id585543219?mt=8"
 links:
 - title: "Backbone.JS"

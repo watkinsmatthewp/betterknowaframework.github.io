@@ -5,7 +5,7 @@ date: "2017-04-18"
 episode_number: "1433"
 episode_url: "https://www.dotnetrocks.com/?show=1433"
 better_know_a_framework:
-- title: "Serene"
+  title: "Serene"
   url: "https://marketplace.visualstudio.com/items?itemName=VolkanCeylan.SereneSerenityApplicationTemplate"
 links:
 - title: "Agile Research Project"

@@ -5,7 +5,7 @@ date: "2016-08-10"
 episode_number: "1333"
 episode_url: "https://www.dotnetrocks.com/?show=1333"
 better_know_a_framework:
-- title: "Gatsy"
+  title: "Gatsy"
   url: "https://github.com/gatsbyjs/gatsby"
 links:
 - title: "Reactive Trader Cloud"

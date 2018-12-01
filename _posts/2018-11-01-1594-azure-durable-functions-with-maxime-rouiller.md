@@ -5,7 +5,7 @@ date: "2018-11-01"
 episode_number: "1594"
 episode_url: "https://www.dotnetrocks.com/?show=1594"
 better_know_a_framework:
-- title: "Responsinatior"
+  title: "Responsinatior"
   url: "http://www.responsinator.com/"
 links:
 - title: "Durable Functions"

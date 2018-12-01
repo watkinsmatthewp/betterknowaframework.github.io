@@ -5,7 +5,7 @@ date: "2017-06-08"
 episode_number: "1448"
 episode_url: "https://www.dotnetrocks.com/?show=1448"
 better_know_a_framework:
-- title: "SteelToe"
+  title: "SteelToe"
   url: "http://steeltoe.io/"
 links:
 - title: "James' Blog"

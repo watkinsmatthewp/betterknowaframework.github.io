@@ -5,7 +5,7 @@ date: "2016-05-11"
 episode_number: "1294"
 episode_url: "https://www.dotnetrocks.com/?show=1294"
 better_know_a_framework:
-- title: "Classic Programmer Painting"
+  title: "Classic Programmer Painting"
   url: "http://classicprogrammerpaintings.com/"
 links:
 - title: "Android Authority"

@@ -5,7 +5,7 @@ date: "2018-01-25"
 episode_number: "1514"
 episode_url: "https://www.dotnetrocks.com/?show=1514"
 better_know_a_framework:
-- title: "Missile Warning UI"
+  title: "Missile Warning UI"
   url: "https://i.redd.it/33bkdlrbdca01.gif"
 links:
 - title: "JewelBots"

@@ -5,7 +5,7 @@ date: "2018-09-27"
 episode_number: "1584"
 episode_url: "https://www.dotnetrocks.com/?show=1584"
 better_know_a_framework:
-- title: "alexa.net"
+  title: "alexa.net"
   url: "https://www.nuget.org/packages/alexa.net"
 links:
 - title: "LINQPad"

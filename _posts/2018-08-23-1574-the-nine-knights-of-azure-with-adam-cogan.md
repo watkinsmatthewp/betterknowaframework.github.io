@@ -5,7 +5,7 @@ date: "2018-08-23"
 episode_number: "1574"
 episode_url: "https://www.dotnetrocks.com/?show=1574"
 better_know_a_framework:
-- title: "Alexa Cortana Collaboration"
+  title: "Alexa Cortana Collaboration"
   url: "https://blogs.microsoft.com/ai/alexa-cortana-public-preview/"
 links:
 - title: "Azure Web Apps"

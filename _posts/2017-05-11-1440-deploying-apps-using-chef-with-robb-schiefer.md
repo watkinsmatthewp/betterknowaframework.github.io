@@ -5,7 +5,7 @@ date: "2017-05-11"
 episode_number: "1440"
 episode_url: "https://www.dotnetrocks.com/?show=1440"
 better_know_a_framework:
-- title: "Uppy"
+  title: "Uppy"
   url: "https://uppy.io/"
 links:
 - title: "Chef"

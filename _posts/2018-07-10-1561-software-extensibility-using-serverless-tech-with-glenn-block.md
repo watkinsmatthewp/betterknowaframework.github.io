@@ -5,7 +5,7 @@ date: "2018-07-10"
 episode_number: "1561"
 episode_url: "https://www.dotnetrocks.com/?show=1561"
 better_know_a_framework:
-- title: "Behind the Tech"
+  title: "Behind the Tech"
   url: "https://behindthetech.libsynpro.com/"
 links:
 - title: "ScriptCS"

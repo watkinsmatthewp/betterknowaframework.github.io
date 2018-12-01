@@ -5,7 +5,7 @@ date: "2017-01-03"
 episode_number: "1395"
 episode_url: "https://www.dotnetrocks.com/?show=1395"
 better_know_a_framework:
-- title: "BlueprintJS"
+  title: "BlueprintJS"
   url: "http://blueprintjs.com/"
 links:
 - title: "Markdown Monster"

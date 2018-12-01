@@ -5,7 +5,7 @@ date: "2017-09-14"
 episode_number: "1476"
 episode_url: "https://www.dotnetrocks.com/?show=1476"
 better_know_a_framework:
-- title: "Harald Bluetooth"
+  title: "Harald Bluetooth"
   url: "https://en.wikipedia.org/wiki/Harald_Bluetooth"
 links:
 - title: "Windows Template Studio"

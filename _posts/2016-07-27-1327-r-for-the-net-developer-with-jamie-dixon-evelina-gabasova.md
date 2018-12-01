@@ -5,7 +5,7 @@ date: "2016-07-27"
 episode_number: "1327"
 episode_url: "https://www.dotnetrocks.com/?show=1327"
 better_know_a_framework:
-- title: "Using Games to Teach Statistics"
+  title: "Using Games to Teach Statistics"
   url: "http://blog.minitab.com/blog/real-world-quality-improvement/using-games-to-teach-statistics"
 links:
 - title: "Python"

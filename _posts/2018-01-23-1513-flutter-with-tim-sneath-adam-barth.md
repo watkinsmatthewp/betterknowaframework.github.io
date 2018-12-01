@@ -5,7 +5,7 @@ date: "2018-01-23"
 episode_number: "1513"
 episode_url: "https://www.dotnetrocks.com/?show=1513"
 better_know_a_framework:
-- title: "https://walabot.com/"
+  title: "https://walabot.com/"
   url: "Walabot"
 links:
 - title: "Tim Joining Google"

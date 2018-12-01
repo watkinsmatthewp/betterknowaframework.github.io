@@ -5,7 +5,7 @@ date: "2016-11-30"
 episode_number: "1381"
 episode_url: "https://www.dotnetrocks.com/?show=1381"
 better_know_a_framework:
-- title: "SignalR for Python"
+  title: "SignalR for Python"
   url: "https://github.com/TargetProcess/signalr-client-py"
 links:
 - title: "Kirupa's Blog"

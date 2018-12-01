@@ -5,7 +5,7 @@ date: "2017-01-26"
 episode_number: "1406"
 episode_url: "https://www.dotnetrocks.com/?show=1406"
 better_know_a_framework:
-- title: "Victory"
+  title: "Victory"
   url: "http://formidable.com/open-source/victory/"
 links:
 - title: "Louise's Blog"

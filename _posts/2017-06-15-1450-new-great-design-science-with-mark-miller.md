@@ -5,7 +5,7 @@ date: "2017-06-15"
 episode_number: "1450"
 episode_url: "https://www.dotnetrocks.com/?show=1450"
 better_know_a_framework:
-- title: "Keto Parenting"
+  title: "Keto Parenting"
   url: "http://2ketodudes.com/show.aspx?episode=60"
 links:
 - title: "Science of Great UI"

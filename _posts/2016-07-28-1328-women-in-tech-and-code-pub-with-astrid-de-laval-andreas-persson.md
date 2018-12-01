@@ -5,7 +5,7 @@ date: "2016-07-28"
 episode_number: "1328"
 episode_url: "https://www.dotnetrocks.com/?show=1328"
 better_know_a_framework:
-- title: "Fedora Linux"
+  title: "Fedora Linux"
   url: "https://getfedora.org/"
 links:
 - title: "Code Pub Stockholm"

@@ -5,7 +5,7 @@ date: "2016-10-19"
 episode_number: "1363"
 episode_url: "https://www.dotnetrocks.com/?show=1363"
 better_know_a_framework:
-- title: "Git the Princess"
+  title: "Git the Princess"
   url: "https://i.sli.mg/ZOBIlA.jpg"
 links:
 - title: "KataCoda"

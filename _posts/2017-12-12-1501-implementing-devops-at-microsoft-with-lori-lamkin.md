@@ -5,7 +5,7 @@ date: "2017-12-12"
 episode_number: "1501"
 episode_url: "https://www.dotnetrocks.com/?show=1501"
 better_know_a_framework:
-- title: "Scrutor"
+  title: "Scrutor"
   url: "https://github.com/khellang/Scrutor"
 ---
 

@@ -5,7 +5,7 @@ date: "2017-09-28"
 episode_number: "1480"
 episode_url: "https://www.dotnetrocks.com/?show=1480"
 better_know_a_framework:
-- title: "Confabulum"
+  title: "Confabulum"
   url: "https://github.com/markrendle/Confabulum"
 links:
 - title: "RevealJS"

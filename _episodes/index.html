@@ -9,11 +9,15 @@ permalink: /episodes
 {% for episode in paginator.posts %}
 <div class="card mb-3">
     <div class="card-body">
-        <h5 class="card-title"><a href="{{ episode.url }}" target="_blank">#{{ episode.episode_number }} - {{ episode.title }}</a></h5>
+        <h5 class="card-title"><a href="{{ episode.url }}">#{{ episode.episode_number }} - {{ episode.title }}</a></h5>
         <p class="card-text">{{ episode.content | truncate: 300 }}</p>
-        {% for link in episode.links %}
-            <a href="{{ link.url }}" target="_blank" class="card-link">{{ link.title | truncate: 100 }}</a>
-        {% endfor %}
+        <a href="{{ episode.episode_url }}" target="_blank" class="card-link">.NET Rocks Episode</a>
+        {% if episode.better_know_a_framework %}
+            <a href="{{ episode.better_know_a_framework.url }}" target="_blank" class="card-link">BKF: {{ episode.better_know_a_framework.title | truncate: 100 }}</a>
+        {% endif %}
+        {% if episode.links | size %}
+            <a href="{{ episode.url }}" class="card-link">Other links</a>
+        {% endif %}
     </div>
 </div>
 {% endfor %}

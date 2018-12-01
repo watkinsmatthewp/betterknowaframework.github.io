@@ -5,7 +5,7 @@ date: "2017-12-19"
 episode_number: "1503"
 episode_url: "https://www.dotnetrocks.com/?show=1503"
 better_know_a_framework:
-- title: "Typewriter"
+  title: "Typewriter"
   url: "http://frhagn.github.io/Typewriter/"
 links:
 - title: "DotVVM"

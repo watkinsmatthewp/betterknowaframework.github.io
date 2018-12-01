@@ -5,7 +5,7 @@ date: "2018-07-19"
 episode_number: "1564"
 episode_url: "https://www.dotnetrocks.com/?show=1564"
 better_know_a_framework:
-- title: "Void in Giza Pyramid"
+  title: "Void in Giza Pyramid"
   url: "http://www.iflscience.com/physics/gigantic-void-within-great-pyramid-of-giza-discovered-using-cosmic-ray-particles/all/"
 links:
 - title: "Volcano Discovery"

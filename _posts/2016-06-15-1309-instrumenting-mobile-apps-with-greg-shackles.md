@@ -5,7 +5,7 @@ date: "2016-06-15"
 episode_number: "1309"
 episode_url: "https://www.dotnetrocks.com/?show=1309"
 better_know_a_framework:
-- title: "Quantum Computing Strategies"
+  title: "Quantum Computing Strategies"
   url: "http://www.theverge.com/2016/4/13/11422222/quantum-moves-online-game-optical-lattice-computer"
 links:
 - title: "AppInsightsExplorer"

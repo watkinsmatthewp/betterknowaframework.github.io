@@ -5,7 +5,7 @@ date: "2016-11-24"
 episode_number: "1379"
 episode_url: "https://www.dotnetrocks.com/?show=1379"
 better_know_a_framework:
-- title: "Smoking Gun"
+  title: "Smoking Gun"
   url: "https://www.amazon.com/gp/product/B010S2NBYQ/"
 links:
 - title: "SQL Server 2016"

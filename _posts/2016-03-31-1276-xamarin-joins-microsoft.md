@@ -5,7 +5,7 @@ date: "2016-03-31"
 episode_number: "1276"
 episode_url: "https://www.dotnetrocks.com/?show=1276"
 better_know_a_framework:
-- title: "npm chaos story"
+  title: "npm chaos story"
   url: "http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/"
 links:
 - title: "Visual Studio Community Edition 2015"

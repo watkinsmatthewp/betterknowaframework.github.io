@@ -5,7 +5,7 @@ date: "2018-10-18"
 episode_number: "1590"
 episode_url: "https://www.dotnetrocks.com/?show=1590"
 better_know_a_framework:
-- title: "You Don't Need MomentJS"
+  title: "You Don't Need MomentJS"
   url: "https://github.com/you-dont-need/You-Dont-Need-Momentjs"
 links:
 - title: "Haskell Programming from First Principles"

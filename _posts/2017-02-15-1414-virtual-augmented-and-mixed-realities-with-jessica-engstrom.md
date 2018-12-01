@@ -5,7 +5,7 @@ date: "2017-02-15"
 episode_number: "1414"
 episode_url: "https://www.dotnetrocks.com/?show=1414"
 better_know_a_framework:
-- title: "The Kobi"
+  title: "The Kobi"
   url: "http://thekobi.com/"
 links:
 - title: "Jessica's Blog"

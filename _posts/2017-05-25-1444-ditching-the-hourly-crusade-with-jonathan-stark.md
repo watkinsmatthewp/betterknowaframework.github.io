@@ -5,7 +5,7 @@ date: "2017-05-25"
 episode_number: "1444"
 episode_url: "https://www.dotnetrocks.com/?show=1444"
 better_know_a_framework:
-- title: "Coralogix"
+  title: "Coralogix"
   url: "https://coralogix.com/"
 links:
 - title: "Ditching Hourly"

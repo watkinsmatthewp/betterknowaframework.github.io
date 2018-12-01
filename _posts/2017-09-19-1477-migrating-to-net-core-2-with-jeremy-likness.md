@@ -5,7 +5,7 @@ date: "2017-09-19"
 episode_number: "1477"
 episode_url: "https://www.dotnetrocks.com/?show=1477"
 better_know_a_framework:
-- title: "Azure HD Insight Guide"
+  title: "Azure HD Insight Guide"
   url: "https://github.com/hdinsight/hdinsight-dev-guide"
 links:
 - title: "KnockoutJS"

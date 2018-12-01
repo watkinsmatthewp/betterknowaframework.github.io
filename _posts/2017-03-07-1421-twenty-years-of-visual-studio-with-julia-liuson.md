@@ -5,7 +5,7 @@ date: "2017-03-07"
 episode_number: "1421"
 episode_url: "https://www.dotnetrocks.com/?show=1421"
 better_know_a_framework:
-- title: "Binary Sort Folk Dance"
+  title: "Binary Sort Folk Dance"
   url: "https://www.youtube.com/watch?v=ywWBy6J5gz8"
 links:
 - title: "Visual Studio GraphModel"

@@ -5,7 +5,7 @@ date: "2017-08-01"
 episode_number: "1463"
 episode_url: "https://www.dotnetrocks.com/?show=1463"
 better_know_a_framework:
-- title: "JustAssembly"
+  title: "JustAssembly"
   url: "http://www.telerik.com/justassembly"
 links:
 - title: ".NET Summer Hackfest 2017"

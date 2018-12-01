@@ -5,7 +5,7 @@ date: "2017-10-26"
 episode_number: "1488"
 episode_url: "https://www.dotnetrocks.com/?show=1488"
 better_know_a_framework:
-- title: "Digital Paper"
+  title: "Digital Paper"
   url: "https://www.sony.com/electronics/digital-paper-systems/t/digital-paper-notepad"
 links:
 - title: "Shawn's Blog"

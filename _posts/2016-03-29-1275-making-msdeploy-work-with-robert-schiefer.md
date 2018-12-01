@@ -5,7 +5,7 @@ date: "2016-03-29"
 episode_number: "1275"
 episode_url: "https://www.dotnetrocks.com/?show=1275"
 better_know_a_framework:
-- title: "CodeDeck"
+  title: "CodeDeck"
   url: "http://varianto25.com/playing-cards/code-deck"
 links:
 - title: "WebDeploy"

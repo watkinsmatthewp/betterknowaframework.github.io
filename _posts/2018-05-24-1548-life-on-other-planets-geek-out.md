@@ -5,7 +5,7 @@ date: "2018-05-24"
 episode_number: "1548"
 episode_url: "https://www.dotnetrocks.com/?show=1548"
 better_know_a_framework:
-- title: "DIY Muon Detector"
+  title: "DIY Muon Detector"
   url: "http://cosmicwatch.lns.mit.edu/"
 links:
 - title: "Galileo"

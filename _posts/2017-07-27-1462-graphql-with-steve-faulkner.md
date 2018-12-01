@@ -5,7 +5,7 @@ date: "2017-07-27"
 episode_number: "1462"
 episode_url: "https://www.dotnetrocks.com/?show=1462"
 better_know_a_framework:
-- title: "Creating an Email Spammer"
+  title: "Creating an Email Spammer"
   url: "https://stackoverflow.com/questions/44274904/i-am-creating-an-email-spammer-for-an-outstanding-cause"
 links:
 - title: "GraphQL"

@@ -5,7 +5,7 @@ date: "2017-04-06"
 episode_number: "1430"
 episode_url: "https://www.dotnetrocks.com/?show=1430"
 better_know_a_framework:
-- title: "Plotly"
+  title: "Plotly"
   url: "https://plot.ly/"
 links:
 - title: "Xamarin in Action"

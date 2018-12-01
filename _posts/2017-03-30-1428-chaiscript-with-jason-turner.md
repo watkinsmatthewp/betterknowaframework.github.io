@@ -5,7 +5,7 @@ date: "2017-03-30"
 episode_number: "1428"
 episode_url: "https://www.dotnetrocks.com/?show=1428"
 better_know_a_framework:
-- title: "unRAID"
+  title: "unRAID"
   url: "https://lime-technology.com/"
 links:
 - title: "chaiscript"

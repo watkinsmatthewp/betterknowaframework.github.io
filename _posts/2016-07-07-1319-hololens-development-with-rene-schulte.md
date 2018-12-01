@@ -5,7 +5,7 @@ date: "2016-07-07"
 episode_number: "1319"
 episode_url: "https://www.dotnetrocks.com/?show=1319"
 better_know_a_framework:
-- title: "HoloToolkit"
+  title: "HoloToolkit"
   url: "https://github.com/Microsoft/HoloToolkit"
 links:
 - title: "Device Portal for HoloLens"

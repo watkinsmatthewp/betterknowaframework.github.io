@@ -5,7 +5,7 @@ date: "2018-06-21"
 episode_number: "1556"
 episode_url: "https://www.dotnetrocks.com/?show=1556"
 better_know_a_framework:
-- title: "Terraform"
+  title: "Terraform"
   url: "https://www.terraform.io/intro/index.html"
 links:
 - title: "Vagrant"

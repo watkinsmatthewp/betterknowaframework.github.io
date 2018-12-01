@@ -5,7 +5,7 @@ date: "2017-11-28"
 episode_number: "1497"
 episode_url: "https://www.dotnetrocks.com/?show=1497"
 better_know_a_framework:
-- title: "Floppotron"
+  title: "Floppotron"
   url: "http://silent.org.pl/home/2016/07/06/return-of-the-floppies/"
 links:
 - title: "Microsoft AI"

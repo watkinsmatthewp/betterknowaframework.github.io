@@ -5,7 +5,7 @@ date: "2016-12-01"
 episode_number: "1382"
 episode_url: "https://www.dotnetrocks.com/?show=1382"
 better_know_a_framework:
-- title: "Free Books from O'Reilly"
+  title: "Free Books from O'Reilly"
   url: "http://www.oreilly.com/programming/free/"
 links:
 - title: "RSA Motivation Video"

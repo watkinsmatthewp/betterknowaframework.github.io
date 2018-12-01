@@ -5,7 +5,7 @@ date: "2016-05-19"
 episode_number: "1298"
 episode_url: "https://www.dotnetrocks.com/?show=1298"
 better_know_a_framework:
-- title: "2KetoDudes"
+  title: "2KetoDudes"
   url: "http://2ketodudes.com/"
 links:
 - title: "CropLife"

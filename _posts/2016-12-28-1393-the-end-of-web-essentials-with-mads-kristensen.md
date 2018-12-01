@@ -5,7 +5,7 @@ date: "2016-12-28"
 episode_number: "1393"
 episode_url: "https://www.dotnetrocks.com/?show=1393"
 better_know_a_framework:
-- title: "Raspberry Pi 3 LTE"
+  title: "Raspberry Pi 3 LTE"
   url: "http://www.infoworld.com/article/3145789/computers/raspberry-pi-3-gets-low-bandwith-lte-with-add-on-chip.html"
 links:
 - title: "WebEssentials"

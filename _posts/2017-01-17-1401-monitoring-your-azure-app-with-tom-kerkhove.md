@@ -5,7 +5,7 @@ date: "2017-01-17"
 episode_number: "1401"
 episode_url: "https://www.dotnetrocks.com/?show=1401"
 better_know_a_framework:
-- title: "One terabyte USB Stick!"
+  title: "One terabyte USB Stick!"
   url: "https://www.amazon.com/Kingston-DataTraveler-Predator-1TB-DTHXP30/dp/B00E65QM8O/"
 links:
 - title: "Tom's Blog"

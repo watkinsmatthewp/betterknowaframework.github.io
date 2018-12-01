@@ -5,7 +5,7 @@ date: "2016-12-15"
 episode_number: "1388"
 episode_url: "https://www.dotnetrocks.com/?show=1388"
 better_know_a_framework:
-- title: "Bluetooth 5"
+  title: "Bluetooth 5"
   url: "https://www.bluetooth.com/news/pressreleases/2016/12/07/bluetooth-5-now-available"
 links:
 - title: "GeekOuts Experiment"

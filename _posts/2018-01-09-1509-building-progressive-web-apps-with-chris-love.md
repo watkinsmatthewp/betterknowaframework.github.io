@@ -5,7 +5,7 @@ date: "2018-01-09"
 episode_number: "1509"
 episode_url: "https://www.dotnetrocks.com/?show=1509"
 better_know_a_framework:
-- title: "Serverless Framework"
+  title: "Serverless Framework"
   url: "https://serverless.com/framework/"
 links:
 - title: "Progressive Web Apps from Google"

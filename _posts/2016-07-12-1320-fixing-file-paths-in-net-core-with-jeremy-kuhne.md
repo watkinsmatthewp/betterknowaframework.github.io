@@ -5,7 +5,7 @@ date: "2016-07-12"
 episode_number: "1320"
 episode_url: "https://www.dotnetrocks.com/?show=1320"
 better_know_a_framework:
-- title: "ng-include"
+  title: "ng-include"
   url: "https://github.com/darshanmarathe/partialjs"
 links:
 - title: "Jeremy's Blog"

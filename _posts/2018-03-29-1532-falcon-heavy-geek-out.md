@@ -5,7 +5,7 @@ date: "2018-03-29"
 episode_number: "1532"
 episode_url: "https://www.dotnetrocks.com/?show=1532"
 better_know_a_framework:
-- title: "Tesla Solar Panels and Powerwall at Home Depot"
+  title: "Tesla Solar Panels and Powerwall at Home Depot"
   url: "https://www.engadget.com/2018/02/02/tesla-solar-panels-powerwall-home-depot/"
 links:
 - title: "Falcon Heavy central core crashing into the ocean"

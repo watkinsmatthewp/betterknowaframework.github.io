@@ -5,7 +5,7 @@ date: "2018-08-28"
 episode_number: "1575"
 episode_url: "https://www.dotnetrocks.com/?show=1575"
 better_know_a_framework:
-- title: "3D MRI"
+  title: "3D MRI"
   url: "https://twitter.com/MikeAlgerXR/status/1028896252048564224?s=19"
 links:
 - title: "Jeff Fritz Twitch"

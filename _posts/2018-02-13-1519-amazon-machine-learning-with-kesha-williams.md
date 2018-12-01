@@ -5,7 +5,7 @@ date: "2018-02-13"
 episode_number: "1519"
 episode_url: "https://www.dotnetrocks.com/?show=1519"
 better_know_a_framework:
-- title: "Sonos Hacks"
+  title: "Sonos Hacks"
   url: "https://www.theverge.com/2017/12/27/16822816/sonos-bose-speakers-hijacked-play-ghostly-sounds"
 links:
 - title: "Machine Learning on AWS"

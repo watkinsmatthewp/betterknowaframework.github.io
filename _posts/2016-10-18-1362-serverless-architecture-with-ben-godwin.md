@@ -5,7 +5,7 @@ date: "2016-10-18"
 episode_number: "1362"
 episode_url: "https://www.dotnetrocks.com/?show=1362"
 better_know_a_framework:
-- title: ".NET Standard"
+  title: ".NET Standard"
   url: "https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/"
 links:
 - title: "AWS Lambda"

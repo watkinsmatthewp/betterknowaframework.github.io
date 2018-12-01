@@ -5,7 +5,7 @@ date: "2016-04-06"
 episode_number: "1279"
 episode_url: "https://www.dotnetrocks.com/?show=1279"
 better_know_a_framework:
-- title: "platformio"
+  title: "platformio"
   url: "http://platformio.org/"
 links:
 - title: "Aurelia"

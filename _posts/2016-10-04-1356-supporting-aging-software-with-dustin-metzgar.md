@@ -5,7 +5,7 @@ date: "2016-10-04"
 episode_number: "1356"
 episode_url: "https://www.dotnetrocks.com/?show=1356"
 better_know_a_framework:
-- title: "Rancher"
+  title: "Rancher"
   url: "http://rancher.com/"
 links:
 - title: "WinDbg"

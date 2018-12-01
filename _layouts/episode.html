@@ -5,9 +5,17 @@ layout: page
 <div class="card">
     <div class="card-body">
         <h1 class="card-title">#{{ page.episode_number }} - {{ page.title }}</h1>
+
+        <h5>Summary</h5>
         <p class="card-text">{{ content }}</p>
+
+        <h5>Links</h4>
+        <a href="{{ page.episode_url }}" target="_blank" class="card-link">.NET Rocks Episode</a>
+        {% if episode.better_know_a_framework %}
+            <a href="{{ page.better_know_a_framework.url }}" target="_blank" class="card-link">BKF: {{ page.better_know_a_framework.title | truncate: 100 }}</a>
+        {% endif %}
         {% for link in page.links %}
-            <a href="{{ link.url }}" target="_blank" class="card-link">{{ link.title }}</a>
+            <a href="{{ link.url }}" class="card-link">{{ link.title }}</a>
         {% endfor %}
     </div>
 </div>

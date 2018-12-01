@@ -5,7 +5,7 @@ date: "2017-03-28"
 episode_number: "1427"
 episode_url: "https://www.dotnetrocks.com/?show=1427"
 better_know_a_framework:
-- title: "DesignTimeMapper"
+  title: "DesignTimeMapper"
   url: "https://github.com/AlistairClark7/DesignTimeMapper"
 links:
 - title: "AutoMapper"

@@ -5,7 +5,7 @@ date: "2018-01-02"
 episode_number: "1507"
 episode_url: "https://www.dotnetrocks.com/?show=1507"
 better_know_a_framework:
-- title: "NimbleText"
+  title: "NimbleText"
   url: "http://nimbletext.com/"
 links:
 - title: "ASP.NET Web Forms"

@@ -5,7 +5,7 @@ date: "2018-04-05"
 episode_number: "1534"
 episode_url: "https://www.dotnetrocks.com/?show=1534"
 better_know_a_framework:
-- title: "OBS Studio"
+  title: "OBS Studio"
   url: "https://obsproject.com/"
 links:
 - title: "VSCode"

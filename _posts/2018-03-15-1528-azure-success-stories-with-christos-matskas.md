@@ -5,7 +5,7 @@ date: "2018-03-15"
 episode_number: "1528"
 episode_url: "https://www.dotnetrocks.com/?show=1528"
 better_know_a_framework:
-- title: "Wozniak's BitCoins Stolen"
+  title: "Wozniak's BitCoins Stolen"
   url: "https://www.zerohedge.com/news/2018-02-26/someone-stole-steve-wozniaks-bitcoins"
 links:
 - title: "Azure Functions"

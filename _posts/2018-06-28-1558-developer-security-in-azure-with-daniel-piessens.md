@@ -5,7 +5,7 @@ date: "2018-06-28"
 episode_number: "1558"
 episode_url: "https://www.dotnetrocks.com/?show=1558"
 better_know_a_framework:
-- title: "Telerik Modern Web Tour"
+  title: "Telerik Modern Web Tour"
   url: "https://www.telerik.com/campaigns/devcraft/the-modern-web-tour"
 links:
 - title: "DevIntersection"

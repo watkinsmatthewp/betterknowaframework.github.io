@@ -5,7 +5,7 @@ date: "2017-04-13"
 episode_number: "1432"
 episode_url: "https://www.dotnetrocks.com/?show=1432"
 better_know_a_framework:
-- title: "C# IL Viewer for Visual Studio Code"
+  title: "C# IL Viewer for Visual Studio Code"
   url: "http://josephwoodward.co.uk/2017/01/c-sharp-il-viewer-vs-code-using-roslyn"
 links:
 - title: "Visual Studio Team Services"

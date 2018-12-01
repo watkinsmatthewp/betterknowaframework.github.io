@@ -5,7 +5,7 @@ date: "2016-09-06"
 episode_number: "1344"
 episode_url: "https://www.dotnetrocks.com/?show=1344"
 better_know_a_framework:
-- title: "HoloLens Mixed Reality Done Right"
+  title: "HoloLens Mixed Reality Done Right"
   url: "https://vbandi.net/2016/08/18/hololens-mixed-reality-streaming-done-right/"
 links:
 - title: "Billy's Client Apps"

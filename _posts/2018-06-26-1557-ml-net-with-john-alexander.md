@@ -5,7 +5,7 @@ date: "2018-06-26"
 episode_number: "1557"
 episode_url: "https://www.dotnetrocks.com/?show=1557"
 better_know_a_framework:
-- title: "Periodic Table of GitHub"
+  title: "Periodic Table of GitHub"
   url: "https://xebialabs.com/periodic-table-of-devops-tools"
 links:
 - title: "Geeks with Blogs"

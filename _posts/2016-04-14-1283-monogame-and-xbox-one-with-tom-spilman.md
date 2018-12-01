@@ -5,7 +5,7 @@ date: "2016-04-14"
 episode_number: "1283"
 episode_url: "https://www.dotnetrocks.com/?show=1283"
 better_know_a_framework:
-- title: "ID@XBOX"
+  title: "ID@XBOX"
   url: "http://www.xbox.com/en-us/Developers/id"
 links:
 - title: "MonoGame"

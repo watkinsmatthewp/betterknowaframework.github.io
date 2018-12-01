@@ -5,7 +5,7 @@ date: "2017-01-04"
 episode_number: "1396"
 episode_url: "https://www.dotnetrocks.com/?show=1396"
 better_know_a_framework:
-- title: "Spreadsheet Comedy"
+  title: "Spreadsheet Comedy"
   url: "https://www.youtube.com/watch?v=UBX2QQHlQ_I"
 links:
 - title: "Progressive Web Apps"

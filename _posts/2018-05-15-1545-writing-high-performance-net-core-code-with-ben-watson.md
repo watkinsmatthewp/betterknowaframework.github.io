@@ -5,7 +5,7 @@ date: "2018-05-15"
 episode_number: "1545"
 episode_url: "https://www.dotnetrocks.com/?show=1545"
 better_know_a_framework:
-- title: "Sucuri"
+  title: "Sucuri"
   url: "https://sitecheck.sucuri.net/"
 links:
 - title: "TechEmpower"

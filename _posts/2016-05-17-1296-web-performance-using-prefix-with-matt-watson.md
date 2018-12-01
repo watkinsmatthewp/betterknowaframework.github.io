@@ -5,7 +5,7 @@ date: "2016-05-17"
 episode_number: "1296"
 episode_url: "https://www.dotnetrocks.com/?show=1296"
 better_know_a_framework:
-- title: "TapGlue"
+  title: "TapGlue"
   url: "https://www.tapglue.com/"
 links:
 - title: "Stackify"

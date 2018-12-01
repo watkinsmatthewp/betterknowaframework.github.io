@@ -5,7 +5,7 @@ date: "2017-10-19"
 episode_number: "1486"
 episode_url: "https://www.dotnetrocks.com/?show=1486"
 better_know_a_framework:
-- title: "NUBWO K5 Gaming Headset"
+  title: "NUBWO K5 Gaming Headset"
   url: "https://www.amazon.com/gp/product/B06XHZR29V/"
 links:
 - title: "SpaceX Dragon 2 Animation"

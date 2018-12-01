@@ -5,7 +5,7 @@ date: "2016-06-08"
 episode_number: "1306"
 episode_url: "https://www.dotnetrocks.com/?show=1306"
 better_know_a_framework:
-- title: "Great Book Covers"
+  title: "Great Book Covers"
   url: "http://imgur.com/gallery/vqUQ5"
 links:
 - title: "Windows Server 2016 Technical Preview 5"

@@ -5,7 +5,7 @@ date: "2018-06-14"
 episode_number: "1554"
 episode_url: "https://www.dotnetrocks.com/?show=1554"
 better_know_a_framework:
-- title: "Project Natick"
+  title: "Project Natick"
   url: "https://www.youtube.com/watch?v=AvvJc4Uw3aA"
 links:
 - title: "iDesign"

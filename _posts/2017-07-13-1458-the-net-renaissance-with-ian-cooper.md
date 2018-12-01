@@ -5,7 +5,7 @@ date: "2017-07-13"
 episode_number: "1458"
 episode_url: "https://www.dotnetrocks.com/?show=1458"
 better_know_a_framework:
-- title: ".NET Application Architecture"
+  title: ".NET Application Architecture"
   url: "https://www.microsoft.com/net/learn/architecture"
 links:
 - title: "On the Need for a C# Renaissance"

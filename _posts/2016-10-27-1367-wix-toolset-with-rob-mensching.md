@@ -5,7 +5,7 @@ date: "2016-10-27"
 episode_number: "1367"
 episode_url: "https://www.dotnetrocks.com/?show=1367"
 better_know_a_framework:
-- title: "Pokemon Go Cheating"
+  title: "Pokemon Go Cheating"
   url: "http://www.forbes.com/sites/insertcoin/2016/09/11/pokemon-go-is-purging-all-rooted-and-jailbroken-devices-from-the-game-to-curb-cheating/"
 links:
 - title: "WiX Toolset"

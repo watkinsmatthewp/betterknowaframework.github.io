@@ -5,7 +5,7 @@ date: "2017-12-07"
 episode_number: "1500"
 episode_url: "https://www.dotnetrocks.com/?show=1500"
 better_know_a_framework:
-- title: "Using AI to Troll Email Scammers"
+  title: "Using AI to Troll Email Scammers"
   url: "https://thenextweb.com/artificial-intelligence/2017/11/13/i-hired-an-ai-to-tackle-email-scammers-in-my-inbox-and-the-results-were-hilarious/"
 links:
 - title: "Carl's Visual Basic 4.0 Internet Programming Book"

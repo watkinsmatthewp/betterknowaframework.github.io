@@ -5,7 +5,7 @@ date: "2018-11-06"
 episode_number: "1595"
 episode_url: "https://www.dotnetrocks.com/?show=1595"
 better_know_a_framework:
-- title: "Evernote for iOS"
+  title: "Evernote for iOS"
   url: "https://itunes.apple.com/us/app/evernote/id281796108?mt=8"
 links:
 - title: "Evernote for Android"

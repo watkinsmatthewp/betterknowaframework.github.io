@@ -5,7 +5,7 @@ date: "2017-06-13"
 episode_number: "1449"
 episode_url: "https://www.dotnetrocks.com/?show=1449"
 better_know_a_framework:
-- title: "You'll Never Use a Windows Phone at Work"
+  title: "You'll Never Use a Windows Phone at Work"
   url: "https://www.washingtonpost.com/news/the-switch/wp/2017/05/11/why-microsoft-is-totally-cool-with-you-using-other-companies-products-at-work/"
 links:
 - title: "Emma Device"

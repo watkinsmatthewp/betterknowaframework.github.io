@@ -5,7 +5,7 @@ date: "2018-06-19"
 episode_number: "1555"
 episode_url: "https://www.dotnetrocks.com/?show=1555"
 better_know_a_framework:
-- title: "JSON2TypeScript"
+  title: "JSON2TypeScript"
   url: "https://github.com/dhlab-basel/json2typescript"
 links:
 - title: "Visual Basic Guide"

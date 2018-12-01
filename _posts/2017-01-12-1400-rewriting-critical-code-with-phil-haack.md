@@ -5,7 +5,7 @@ date: "2017-01-12"
 episode_number: "1400"
 episode_url: "https://www.dotnetrocks.com/?show=1400"
 better_know_a_framework:
-- title: "Gomix"
+  title: "Gomix"
   url: "https://gomix.com"
 links:
 - title: "ThatConference"

@@ -5,7 +5,7 @@ date: "2016-12-27"
 episode_number: "1392"
 episode_url: "https://www.dotnetrocks.com/?show=1392"
 better_know_a_framework:
-- title: "Navdy"
+  title: "Navdy"
   url: "https://www.navdy.com"
 links:
 - title: "Jewelbots"

@@ -5,7 +5,7 @@ date: "2016-05-26"
 episode_number: "1301"
 episode_url: "https://www.dotnetrocks.com/?show=1301"
 better_know_a_framework:
-- title: "Talkus.io"
+  title: "Talkus.io"
   url: "https://www.talkus.io/"
 links:
 - title: "Julie's Blog"

@@ -5,7 +5,7 @@ date: "2018-10-25"
 episode_number: "1592"
 episode_url: "https://www.dotnetrocks.com/?show=1592"
 better_know_a_framework:
-- title: "RoboKiller"
+  title: "RoboKiller"
   url: "https://www.youtube.com/watch?v=C6Zk51CGQvQ"
 links:
 - title: "Postgres Weekly"

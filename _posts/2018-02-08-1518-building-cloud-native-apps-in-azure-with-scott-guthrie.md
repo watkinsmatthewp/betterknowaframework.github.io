@@ -5,7 +5,7 @@ date: "2018-02-08"
 episode_number: "1518"
 episode_url: "https://www.dotnetrocks.com/?show=1518"
 better_know_a_framework:
-- title: "Apollo: World's First Graphene Battery USB C PD Power Bank"
+  title: "Apollo: World's First Graphene Battery USB C PD Power Bank"
   url: "https://www.kickstarter.com/projects/anywatt/apollo-worlds-first-graphene-battery-usb-c-pd-powe"
 links:
 - title: "Kubernetes on Azure"

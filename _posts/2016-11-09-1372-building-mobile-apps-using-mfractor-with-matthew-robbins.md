@@ -5,7 +5,7 @@ date: "2016-11-09"
 episode_number: "1372"
 episode_url: "https://www.dotnetrocks.com/?show=1372"
 better_know_a_framework:
-- title: "Xamarin Components"
+  title: "Xamarin Components"
   url: "https://github.com/xamarin/XamarinComponents"
 links:
 - title: "MFractor"

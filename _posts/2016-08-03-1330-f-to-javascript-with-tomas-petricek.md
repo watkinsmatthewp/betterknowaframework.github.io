@@ -5,7 +5,7 @@ date: "2016-08-03"
 episode_number: "1330"
 episode_url: "https://www.dotnetrocks.com/?show=1330"
 better_know_a_framework:
-- title: "Azure Dev Test Labs"
+  title: "Azure Dev Test Labs"
   url: "https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-azure-devtest-labs/?sf27870968=1"
 links:
 - title: "F# |> Babel"

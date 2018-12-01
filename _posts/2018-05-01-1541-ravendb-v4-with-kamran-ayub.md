@@ -5,7 +5,7 @@ date: "2018-05-01"
 episode_number: "1541"
 episode_url: "https://www.dotnetrocks.com/?show=1541"
 better_know_a_framework:
-- title: "JSONLogic"
+  title: "JSONLogic"
   url: "http://jsonlogic.com/"
 links:
 - title: "Datomic"

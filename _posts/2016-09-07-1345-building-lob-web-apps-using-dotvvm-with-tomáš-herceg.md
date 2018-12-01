@@ -5,7 +5,7 @@ date: "2016-09-07"
 episode_number: "1345"
 episode_url: "https://www.dotnetrocks.com/?show=1345"
 better_know_a_framework:
-- title: "Giant USB Battery"
+  title: "Giant USB Battery"
   url: "https://www.amazon.com/gp/product/B016HNALOI?redirect=true"
 links:
 - title: "GistRun"

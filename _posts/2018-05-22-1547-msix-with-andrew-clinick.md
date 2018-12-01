@@ -5,7 +5,7 @@ date: "2018-05-22"
 episode_number: "1547"
 episode_url: "https://www.dotnetrocks.com/?show=1547"
 better_know_a_framework:
-- title: "Code Analysis Labs"
+  title: "Code Analysis Labs"
   url: "https://almvm.azurewebsites.net/labs/tfs/codeanalysis/"
 links:
 - title: "MSIX on GitHub"

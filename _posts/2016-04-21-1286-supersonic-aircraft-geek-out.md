@@ -5,7 +5,7 @@ date: "2016-04-21"
 episode_number: "1286"
 episode_url: "https://www.dotnetrocks.com/?show=1286"
 better_know_a_framework:
-- title: "TSA Randomizer"
+  title: "TSA Randomizer"
   url: "http://www.geek.com/apps/tsa-paid-1-4-million-for-randomizer-app-that-chooses-left-or-right-1651337/"
 links:
 - title: "Area Rule on a Fighter Jet"

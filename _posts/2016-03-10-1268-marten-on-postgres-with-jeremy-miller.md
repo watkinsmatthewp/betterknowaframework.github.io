@@ -5,7 +5,7 @@ date: "2016-03-10"
 episode_number: "1268"
 episode_url: "https://www.dotnetrocks.com/?show=1268"
 better_know_a_framework:
-- title: "CircuitScribe"
+  title: "CircuitScribe"
   url: "http://www.circuitscribe.com/"
 links:
 - title: "PostgreSQL"

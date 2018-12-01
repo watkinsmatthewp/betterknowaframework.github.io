@@ -5,7 +5,7 @@ date: "2016-12-06"
 episode_number: "1383"
 episode_url: "https://www.dotnetrocks.com/?show=1383"
 better_know_a_framework:
-- title: "Building a Better Mousetrap"
+  title: "Building a Better Mousetrap"
   url: "https://www.youtube.com/watch?v=l4PaGvAhV9I"
 links:
 - title: "Intro to Entity Framework"

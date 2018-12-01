@@ -5,7 +5,7 @@ date: "2018-04-19"
 episode_number: "1538"
 episode_url: "https://www.dotnetrocks.com/?show=1538"
 better_know_a_framework:
-- title: "The Mistakes I Made as a Beginner Programmer"
+  title: "The Mistakes I Made as a Beginner Programmer"
   url: "https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312"
 links:
 - title: "Generalized Test Data Builder"

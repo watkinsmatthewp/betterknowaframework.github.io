@@ -5,7 +5,7 @@ date: "2017-05-04"
 episode_number: "1438"
 episode_url: "https://www.dotnetrocks.com/?show=1438"
 better_know_a_framework:
-- title: "Visual COBOL for Visual Studio 2017"
+  title: "Visual COBOL for Visual Studio 2017"
   url: "http://windowsitpro.com/development/microsoft-visual-studio-2017-gains-cobol-support-micro-focus"
 links:
 - title: "Developer Hegemony"

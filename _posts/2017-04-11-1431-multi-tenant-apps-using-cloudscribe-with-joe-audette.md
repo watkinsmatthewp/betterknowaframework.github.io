@@ -5,7 +5,7 @@ date: "2017-04-11"
 episode_number: "1431"
 episode_url: "https://www.dotnetrocks.com/?show=1431"
 better_know_a_framework:
-- title: "What is .NET Core?"
+  title: "What is .NET Core?"
   url: "http://www.codeshare.co.uk/blog/what-is-net-core-7-things-you-should-know/"
 links:
 - title: "Cloudscribe on GitHub"

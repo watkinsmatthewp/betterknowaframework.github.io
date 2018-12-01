@@ -5,7 +5,7 @@ date: "2016-03-22"
 episode_number: "1272"
 episode_url: "https://www.dotnetrocks.com/?show=1272"
 better_know_a_framework:
-- title: "Reporting a Bug with Visual Studio 2015"
+  title: "Reporting a Bug with Visual Studio 2015"
   url: "http://1272.pwop.me"
 links:
 - title: "Python Tools for Visual Studio"

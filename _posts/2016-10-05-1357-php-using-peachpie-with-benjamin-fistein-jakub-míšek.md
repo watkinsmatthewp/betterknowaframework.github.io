@@ -5,7 +5,7 @@ date: "2016-10-05"
 episode_number: "1357"
 episode_url: "https://www.dotnetrocks.com/?show=1357"
 better_know_a_framework:
-- title: "Sass"
+  title: "Sass"
   url: "http://sass-lang.com/"
 links:
 - title: "FirefightJS"

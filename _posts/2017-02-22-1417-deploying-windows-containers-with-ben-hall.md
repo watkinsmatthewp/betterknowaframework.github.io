@@ -5,7 +5,7 @@ date: "2017-02-22"
 episode_number: "1417"
 episode_url: "https://www.dotnetrocks.com/?show=1417"
 better_know_a_framework:
-- title: "ant design"
+  title: "ant design"
   url: "https://ant.design/"
 links:
 - title: "Katacoda"

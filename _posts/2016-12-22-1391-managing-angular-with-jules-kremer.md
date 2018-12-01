@@ -5,7 +5,7 @@ date: "2016-12-22"
 episode_number: "1391"
 episode_url: "https://www.dotnetrocks.com/?show=1391"
 better_know_a_framework:
-- title: "Prefix"
+  title: "Prefix"
   url: "http://prefix.dotnetrocks.com"
 links:
 - title: "Angular"

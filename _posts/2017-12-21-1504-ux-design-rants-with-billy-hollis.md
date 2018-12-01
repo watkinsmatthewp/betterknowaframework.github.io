@@ -5,7 +5,7 @@ date: "2017-12-21"
 episode_number: "1504"
 episode_url: "https://www.dotnetrocks.com/?show=1504"
 better_know_a_framework:
-- title: "The Icon Journey"
+  title: "The Icon Journey"
   url: "https://code.visualstudio.com/blogs/2017/10/24/theicon"
 links:
 - title: "NextVersion Systems"

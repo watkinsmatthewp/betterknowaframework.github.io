@@ -5,7 +5,7 @@ date: "2018-04-03"
 episode_number: "1533"
 episode_url: "https://www.dotnetrocks.com/?show=1533"
 better_know_a_framework:
-- title: "CodePen"
+  title: "CodePen"
   url: "https://codepen.io/Alexander-Taran/pen/yvrJeG"
 links:
 - title: "Microsoft Business Application Platform"

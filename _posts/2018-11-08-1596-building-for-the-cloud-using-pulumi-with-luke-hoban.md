@@ -5,7 +5,7 @@ date: "2018-11-08"
 episode_number: "1596"
 episode_url: "https://www.dotnetrocks.com/?show=1596"
 better_know_a_framework:
-- title: "AppLock"
+  title: "AppLock"
   url: "https://play.google.com/store/apps/details?id=com.domobile.applock"
 links:
 - title: "Pulumi"

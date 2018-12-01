@@ -5,7 +5,7 @@ date: "2016-11-29"
 episode_number: "1380"
 episode_url: "https://www.dotnetrocks.com/?show=1380"
 better_know_a_framework:
-- title: "Azure Costs"
+  title: "Azure Costs"
   url: "https://azure-costs.com/"
 links:
 - title: "Azure Search"

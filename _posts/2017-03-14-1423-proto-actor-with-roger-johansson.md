@@ -5,7 +5,7 @@ date: "2017-03-14"
 episode_number: "1423"
 episode_url: "https://www.dotnetrocks.com/?show=1423"
 better_know_a_framework:
-- title: "Message Loop in Wikipedia"
+  title: "Message Loop in Wikipedia"
   url: "https://en.wikipedia.org/wiki/Message_loop_in_Microsoft_Windows"
 links:
 - title: "proto.actor"

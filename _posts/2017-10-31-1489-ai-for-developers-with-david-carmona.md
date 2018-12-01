@@ -5,7 +5,7 @@ date: "2017-10-31"
 episode_number: "1489"
 episode_url: "https://www.dotnetrocks.com/?show=1489"
 better_know_a_framework:
-- title: "20 Questions"
+  title: "20 Questions"
   url: "http://www.20q.net/"
 links:
 - title: "Microsoft AI"

@@ -5,7 +5,7 @@ date: "2016-11-10"
 episode_number: "1373"
 episode_url: "https://www.dotnetrocks.com/?show=1373"
 better_know_a_framework:
-- title: "Serious Linux Exploit"
+  title: "Serious Linux Exploit"
   url: "http://arstechnica.com/security/2016/10/most-serious-linux-privilege-escalation-bug-ever-is-under-active-exploit/"
 links:
 - title: "Insta360"

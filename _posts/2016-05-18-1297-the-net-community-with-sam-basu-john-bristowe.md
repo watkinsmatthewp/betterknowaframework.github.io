@@ -5,7 +5,7 @@ date: "2016-05-18"
 episode_number: "1297"
 episode_url: "https://www.dotnetrocks.com/?show=1297"
 better_know_a_framework:
-- title: "Telerik Developer Survey Report 2016"
+  title: "Telerik Developer Survey Report 2016"
   url: "http://www.telerik.com/blogs/survey-report-the-dotnet-developer-of-2016"
 ---
 

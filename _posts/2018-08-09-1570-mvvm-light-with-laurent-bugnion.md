@@ -5,7 +5,7 @@ date: "2018-08-09"
 episode_number: "1570"
 episode_url: "https://www.dotnetrocks.com/?show=1570"
 better_know_a_framework:
-- title: "MVVMLight on GitHub"
+  title: "MVVMLight on GitHub"
   url: "https://github.com/lbugnion/mvvmlight"
 links:
 - title: "Silverlight 2 Unleashed"

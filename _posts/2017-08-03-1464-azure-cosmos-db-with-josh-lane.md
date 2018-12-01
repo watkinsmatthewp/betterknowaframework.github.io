@@ -5,7 +5,7 @@ date: "2017-08-03"
 episode_number: "1464"
 episode_url: "https://www.dotnetrocks.com/?show=1464"
 better_know_a_framework:
-- title: "ConnectivityPlugIn"
+  title: "ConnectivityPlugIn"
   url: "https://github.com/jamesmontemagno/ConnectivityPlugin"
 links:
 - title: "Azure CosmosDB"

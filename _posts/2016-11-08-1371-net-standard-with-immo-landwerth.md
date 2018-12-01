@@ -5,7 +5,7 @@ date: "2016-11-08"
 episode_number: "1371"
 episode_url: "https://www.dotnetrocks.com/?show=1371"
 better_know_a_framework:
-- title: ".NET Fiddle"
+  title: ".NET Fiddle"
   url: "https://dotnetfiddle.net/"
 links:
 - title: ".NET Standard on GitHub"

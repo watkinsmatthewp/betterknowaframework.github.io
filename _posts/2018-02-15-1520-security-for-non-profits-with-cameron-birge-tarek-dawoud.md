@@ -5,7 +5,7 @@ date: "2018-02-15"
 episode_number: "1520"
 episode_url: "https://www.dotnetrocks.com/?show=1520"
 better_know_a_framework:
-- title: "PassBolt"
+  title: "PassBolt"
   url: "https://www.passbolt.com/"
 links:
 - title: "Daily Information Podcast"

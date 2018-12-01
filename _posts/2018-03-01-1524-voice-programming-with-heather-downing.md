@@ -5,7 +5,7 @@ date: "2018-03-01"
 episode_number: "1524"
 episode_url: "https://www.dotnetrocks.com/?show=1524"
 better_know_a_framework:
-- title: "Entity Framework Designer"
+  title: "Entity Framework Designer"
   url: "https://github.com/msawczyn/EFDesigner"
 links:
 - title: "NICE Voice of the Customer"

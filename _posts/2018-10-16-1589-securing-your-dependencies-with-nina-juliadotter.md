@@ -5,7 +5,7 @@ date: "2018-10-16"
 episode_number: "1589"
 episode_url: "https://www.dotnetrocks.com/?show=1589"
 better_know_a_framework:
-- title: "Snyk"
+  title: "Snyk"
   url: "https://snyk.io/"
 links:
 - title: "Black Duck"

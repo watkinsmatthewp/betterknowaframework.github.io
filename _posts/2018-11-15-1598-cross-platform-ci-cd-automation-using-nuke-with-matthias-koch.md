@@ -5,7 +5,7 @@ date: "2018-11-15"
 episode_number: "1598"
 episode_url: "https://www.dotnetrocks.com/?show=1598"
 better_know_a_framework:
-- title: "Tiny Scanner Android"
+  title: "Tiny Scanner Android"
   url: "https://play.google.com/store/apps/details?id=com.appxy.tinyscan"
 links:
 - title: "Tiny Scanner iOS"

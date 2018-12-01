@@ -5,7 +5,7 @@ date: "2016-12-14"
 episode_number: "1387"
 episode_url: "https://www.dotnetrocks.com/?show=1387"
 better_know_a_framework:
-- title: "Data-Driven Documents"
+  title: "Data-Driven Documents"
   url: "https://d3js.org/"
 links:
 - title: "JavaScript Services"

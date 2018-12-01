@@ -5,7 +5,7 @@ date: "2017-10-03"
 episode_number: "1481"
 episode_url: "https://www.dotnetrocks.com/?show=1481"
 better_know_a_framework:
-- title: "Carl's Birthday Song to Richard"
+  title: "Carl's Birthday Song to Richard"
   url: "https://www.youtube.com/watch?v=BNVKTtc8ifw"
 links:
 - title: "Entity Framework Core"

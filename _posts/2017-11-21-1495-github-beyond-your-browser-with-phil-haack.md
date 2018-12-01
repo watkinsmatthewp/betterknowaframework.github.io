@@ -5,7 +5,7 @@ date: "2017-11-21"
 episode_number: "1495"
 episode_url: "https://www.dotnetrocks.com/?show=1495"
 better_know_a_framework:
-- title: "antsle"
+  title: "antsle"
   url: "http://go.antsle.com/private-cloud-server/"
 links:
 - title: "GitHub Desktop"

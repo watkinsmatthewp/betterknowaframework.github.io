@@ -5,7 +5,7 @@ date: "2018-10-11"
 episode_number: "1588"
 episode_url: "https://www.dotnetrocks.com/?show=1588"
 better_know_a_framework:
-- title: "JSLinux"
+  title: "JSLinux"
   url: "https://bellard.org/jslinux/"
 links:
 - title: "PowerBI"

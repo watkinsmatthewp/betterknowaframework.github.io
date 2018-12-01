@@ -5,7 +5,7 @@ date: "2017-11-23"
 episode_number: "1496"
 episode_url: "https://www.dotnetrocks.com/?show=1496"
 better_know_a_framework:
-- title: "Material Design for Bootstrap 4"
+  title: "Material Design for Bootstrap 4"
   url: "https://mdbootstrap.com/material-design-for-bootstrap/"
 links:
 - title: "Visual Studio Team Services"

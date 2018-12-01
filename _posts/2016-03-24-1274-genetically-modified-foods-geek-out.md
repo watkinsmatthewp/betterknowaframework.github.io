@@ -5,7 +5,7 @@ date: "2016-03-24"
 episode_number: "1274"
 episode_url: "https://www.dotnetrocks.com/?show=1274"
 better_know_a_framework:
-- title: "2 Keto Dudes Podcast"
+  title: "2 Keto Dudes Podcast"
   url: "http://2ketodudes.com/"
 links:
 - title: "Fruits and Vegetables Before Domestication"

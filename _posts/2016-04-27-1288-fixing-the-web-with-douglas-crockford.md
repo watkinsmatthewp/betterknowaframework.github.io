@@ -5,7 +5,7 @@ date: "2016-04-27"
 episode_number: "1288"
 episode_url: "https://www.dotnetrocks.com/?show=1288"
 better_know_a_framework:
-- title: "MailTrain"
+  title: "MailTrain"
   url: "https://mailtrain.org/"
 links:
 - title: "SendGrid"

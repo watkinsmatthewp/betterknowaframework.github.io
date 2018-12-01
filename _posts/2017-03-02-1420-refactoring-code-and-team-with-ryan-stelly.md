@@ -5,7 +5,7 @@ date: "2017-03-02"
 episode_number: "1420"
 episode_url: "https://www.dotnetrocks.com/?show=1420"
 better_know_a_framework:
-- title: "AirBar for Mac"
+  title: "AirBar for Mac"
   url: "http://www.air.bar/"
 links:
 - title: "ReactJS"

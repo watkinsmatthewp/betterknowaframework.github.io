@@ -5,7 +5,7 @@ date: "2016-06-02"
 episode_number: "1304"
 episode_url: "https://www.dotnetrocks.com/?show=1304"
 better_know_a_framework:
-- title: "OpsDash"
+  title: "OpsDash"
   url: "https://www.opsdash.com/"
 links:
 - title: "Haskell"

@@ -5,7 +5,7 @@ date: "2017-10-17"
 episode_number: "1485"
 episode_url: "https://www.dotnetrocks.com/?show=1485"
 better_know_a_framework:
-- title: "Package Search"
+  title: "Package Search"
   url: "http://packagesearch.azurewebsites.net/"
 links:
 - title: ".NET Core"

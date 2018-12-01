@@ -5,7 +5,7 @@ date: "2018-11-13"
 episode_number: "1597"
 episode_url: "https://www.dotnetrocks.com/?show=1597"
 better_know_a_framework:
-- title: "Truthfinder"
+  title: "Truthfinder"
   url: "https://www.truthfinder.com/"
 links:
 - title: "Microsoft Flow"

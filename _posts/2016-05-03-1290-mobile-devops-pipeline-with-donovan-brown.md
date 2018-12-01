@@ -5,7 +5,7 @@ date: "2016-05-03"
 episode_number: "1290"
 episode_url: "https://www.dotnetrocks.com/?show=1290"
 better_know_a_framework:
-- title: "URL Shorteners"
+  title: "URL Shorteners"
   url: "https://boingboing.net/2016/04/13/url-shorteners-are-a-short-pat.html"
 links:
 - title: "Donovan's Blog"

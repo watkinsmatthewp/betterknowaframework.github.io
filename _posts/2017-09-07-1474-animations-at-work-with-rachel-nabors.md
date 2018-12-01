@@ -5,7 +5,7 @@ date: "2017-09-07"
 episode_number: "1474"
 episode_url: "https://www.dotnetrocks.com/?show=1474"
 better_know_a_framework:
-- title: "ImageSharp"
+  title: "ImageSharp"
   url: "https://github.com/SixLabors/ImageSharp"
 links:
 - title: "Animation at Work"

@@ -5,7 +5,7 @@ date: "2018-01-04"
 episode_number: "1508"
 episode_url: "https://www.dotnetrocks.com/?show=1508"
 better_know_a_framework:
-- title: "Greatest Stack Overflow Answer"
+  title: "Greatest Stack Overflow Answer"
   url: "https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454"
 links:
 - title: "Interknowlogy"

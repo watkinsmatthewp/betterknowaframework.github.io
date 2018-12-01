@@ -5,7 +5,7 @@ date: "2017-11-14"
 episode_number: "1493"
 episode_url: "https://www.dotnetrocks.com/?show=1493"
 better_know_a_framework:
-- title: "Respawn 1.0.0"
+  title: "Respawn 1.0.0"
   url: "https://jimmybogard.com/respawn-1-0-0-released/"
 links:
 - title: "Docker for Windows"

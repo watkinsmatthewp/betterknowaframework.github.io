@@ -5,7 +5,7 @@ date: "2018-07-26"
 episode_number: "1566"
 episode_url: "https://www.dotnetrocks.com/?show=1566"
 better_know_a_framework:
-- title: "Uppy"
+  title: "Uppy"
   url: "https://uppy.io/"
 links:
 - title: "GraphQL"

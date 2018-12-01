@@ -5,7 +5,7 @@ date: "2018-07-17"
 episode_number: "1563"
 episode_url: "https://www.dotnetrocks.com/?show=1563"
 better_know_a_framework:
-- title: "SQLFiddler"
+  title: "SQLFiddler"
   url: "http://www.sqlfiddle.com/"
 links:
 - title: "AngularMix"

@@ -5,7 +5,7 @@ date: "2018-05-17"
 episode_number: "1546"
 episode_url: "https://www.dotnetrocks.com/?show=1546"
 better_know_a_framework:
-- title: "GetStation"
+  title: "GetStation"
   url: "https://getstation.com/"
 links:
 - title: "The Old New Thing"

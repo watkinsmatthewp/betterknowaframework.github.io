@@ -5,7 +5,7 @@ date: "2016-04-28"
 episode_number: "1289"
 episode_url: "https://www.dotnetrocks.com/?show=1289"
 better_know_a_framework:
-- title: "DocX on nuget"
+  title: "DocX on nuget"
   url: "https://www.nuget.org/packages/DocX/"
 links:
 - title: "Vuforia"

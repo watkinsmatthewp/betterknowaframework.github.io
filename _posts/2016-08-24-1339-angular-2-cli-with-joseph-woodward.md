@@ -5,7 +5,7 @@ date: "2016-08-24"
 episode_number: "1339"
 episode_url: "https://www.dotnetrocks.com/?show=1339"
 better_know_a_framework:
-- title: "GistRun"
+  title: "GistRun"
   url: "https://gist.run/"
 links:
 - title: "Angular"

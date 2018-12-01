@@ -5,7 +5,7 @@ date: "2016-07-14"
 episode_number: "1322"
 episode_url: "https://www.dotnetrocks.com/?show=1322"
 better_know_a_framework:
-- title: "DevDocs.io"
+  title: "DevDocs.io"
   url: "http://devdocs.io/"
 links:
 - title: "KataCoda"

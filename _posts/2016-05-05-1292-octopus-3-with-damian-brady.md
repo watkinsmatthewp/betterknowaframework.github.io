@@ -5,7 +5,7 @@ date: "2016-05-05"
 episode_number: "1292"
 episode_url: "https://www.dotnetrocks.com/?show=1292"
 better_know_a_framework:
-- title: "OCR as a Service"
+  title: "OCR as a Service"
   url: "https://scanr.xyz/"
 links:
 - title: "Octopus Deploy"

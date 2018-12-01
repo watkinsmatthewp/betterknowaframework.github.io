@@ -5,7 +5,7 @@ date: "2017-04-25"
 episode_number: "1435"
 episode_url: "https://www.dotnetrocks.com/?show=1435"
 better_know_a_framework:
-- title: "All This Time"
+  title: "All This Time"
   url: "https://www.youtube.com/watch?v=TvVNxqosZ7s"
 links:
 - title: "Intel Hardware Accelerated Execution Manager"

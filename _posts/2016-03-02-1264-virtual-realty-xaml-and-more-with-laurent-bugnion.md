@@ -5,7 +5,7 @@ date: "2016-03-02"
 episode_number: "1264"
 episode_url: "https://www.dotnetrocks.com/?show=1264"
 better_know_a_framework:
-- title: "Helios"
+  title: "Helios"
   url: "https://github.com/spotify/helios"
 links:
 - title: "Identity Mine"

@@ -5,7 +5,7 @@ date: "2016-06-01"
 episode_number: "1303"
 episode_url: "https://www.dotnetrocks.com/?show=1303"
 better_know_a_framework:
-- title: "The Blocking Collection"
+  title: "The Blocking Collection"
   url: "https://msdn.microsoft.com/en-us/library/dd997371(v=vs.110).aspx"
 links:
 - title: "Xamarin Open Source SDK"

@@ -5,7 +5,7 @@ date: "2017-02-14"
 episode_number: "1413"
 episode_url: "https://www.dotnetrocks.com/?show=1413"
 better_know_a_framework:
-- title: "Bootstrap Studio"
+  title: "Bootstrap Studio"
   url: "https://bootstrapstudio.io/"
 ---
 

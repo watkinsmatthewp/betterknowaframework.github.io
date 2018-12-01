@@ -5,7 +5,7 @@ date: "2018-05-08"
 episode_number: "1543"
 episode_url: "https://www.dotnetrocks.com/?show=1543"
 better_know_a_framework:
-- title: "jsreport"
+  title: "jsreport"
   url: "https://jsreport.net/"
 links:
 - title: "SignalR"

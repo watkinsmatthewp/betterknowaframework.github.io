@@ -5,7 +5,7 @@ date: "2018-11-22"
 episode_number: "1600"
 episode_url: "https://www.dotnetrocks.com/?show=1600"
 better_know_a_framework:
-- title: "Code Combat"
+  title: "Code Combat"
   url: "https://codecombat.com/play"
 ---
 

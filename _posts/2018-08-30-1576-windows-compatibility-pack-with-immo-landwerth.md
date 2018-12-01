@@ -5,7 +5,7 @@ date: "2018-08-30"
 episode_number: "1576"
 episode_url: "https://www.dotnetrocks.com/?show=1576"
 better_know_a_framework:
-- title: "100 Days of Machine Learning"
+  title: "100 Days of Machine Learning"
   url: "https://github.com/Avik-Jain/100-Days-Of-ML-Code"
 links:
 - title: "Announcing the Windows Compatibility Pack for .NET Core"

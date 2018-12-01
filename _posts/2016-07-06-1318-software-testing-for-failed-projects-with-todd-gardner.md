@@ -5,7 +5,7 @@ date: "2016-07-06"
 episode_number: "1318"
 episode_url: "https://www.dotnetrocks.com/?show=1318"
 better_know_a_framework:
-- title: "Deco IDE"
+  title: "Deco IDE"
   url: "https://www.decosoftware.com/"
 links:
 - title: "TrackJS"

@@ -5,7 +5,7 @@ date: "2017-08-17"
 episode_number: "1468"
 episode_url: "https://www.dotnetrocks.com/?show=1468"
 better_know_a_framework:
-- title: "UWP Visual Layer"
+  title: "UWP Visual Layer"
   url: "https://docs.microsoft.com/en-us/windows/uwp/composition/visual-layer"
 links:
 - title: "Semantic Logging"

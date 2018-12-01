@@ -5,7 +5,7 @@ date: "2018-05-29"
 episode_number: "1549"
 episode_url: "https://www.dotnetrocks.com/?show=1549"
 better_know_a_framework:
-- title: "Haptic Glove"
+  title: "Haptic Glove"
   url: "https://www.youtube.com/watch?v=OK2y4Z5IkZ0"
 links:
 - title: "Visual Studio for Mac"

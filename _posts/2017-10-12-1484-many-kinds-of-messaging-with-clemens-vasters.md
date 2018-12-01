@@ -5,7 +5,7 @@ date: "2017-10-12"
 episode_number: "1484"
 episode_url: "https://www.dotnetrocks.com/?show=1484"
 better_know_a_framework:
-- title: "BMW GT1 Software"
+  title: "BMW GT1 Software"
   url: "http://bmwgt1.com/"
 links:
 - title: "Azure Service Bus"

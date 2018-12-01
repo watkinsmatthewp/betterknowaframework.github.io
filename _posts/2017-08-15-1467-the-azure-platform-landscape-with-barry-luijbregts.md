@@ -5,7 +5,7 @@ date: "2017-08-15"
 episode_number: "1467"
 episode_url: "https://www.dotnetrocks.com/?show=1467"
 better_know_a_framework:
-- title: "PCL Storage"
+  title: "PCL Storage"
   url: "https://github.com/dsplaisted/PCLStorage"
 links:
 - title: "Azure API Apps"

@@ -5,7 +5,7 @@ date: "2017-02-23"
 episode_number: "1418"
 episode_url: "https://www.dotnetrocks.com/?show=1418"
 better_know_a_framework:
-- title: "Functional Programming in JavaScript"
+  title: "Functional Programming in JavaScript"
   url: "https://gziolo.pl/2016/12/21/exploring-functional-javascript/"
 links:
 - title: "Underscore"

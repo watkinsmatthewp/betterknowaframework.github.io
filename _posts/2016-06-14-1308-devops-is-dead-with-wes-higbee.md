@@ -5,7 +5,7 @@ date: "2016-06-14"
 episode_number: "1308"
 episode_url: "https://www.dotnetrocks.com/?show=1308"
 better_know_a_framework:
-- title: "Visual Mutator"
+  title: "Visual Mutator"
   url: "http://visualmutator.github.io/web/"
 links:
 - title: "Wes' Blog"

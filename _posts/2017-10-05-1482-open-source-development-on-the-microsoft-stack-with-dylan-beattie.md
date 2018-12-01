@@ -5,7 +5,7 @@ date: "2017-10-05"
 episode_number: "1482"
 episode_url: "https://www.dotnetrocks.com/?show=1482"
 better_know_a_framework:
-- title: "WorldWide Telescope"
+  title: "WorldWide Telescope"
   url: "https://dotnetfoundation.org/worldwide-telescope"
 links:
 - title: "Get Started with C#"

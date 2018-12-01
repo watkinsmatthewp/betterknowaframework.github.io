@@ -5,7 +5,7 @@ date: "2016-11-02"
 episode_number: "1369"
 episode_url: "https://www.dotnetrocks.com/?show=1369"
 better_know_a_framework:
-- title: "Airport WiFi Passwords"
+  title: "Airport WiFi Passwords"
   url: "https://www.google.com/maps/d/u/0/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY"
 links:
 - title: "Aaron's Blog"

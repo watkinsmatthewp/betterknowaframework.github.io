@@ -5,7 +5,7 @@ date: "2017-05-09"
 episode_number: "1439"
 episode_url: "https://www.dotnetrocks.com/?show=1439"
 better_know_a_framework:
-- title: "Redux Offline"
+  title: "Redux Offline"
   url: "https://github.com/jevakallio/redux-offline"
 links:
 - title: "Azure Serverless"

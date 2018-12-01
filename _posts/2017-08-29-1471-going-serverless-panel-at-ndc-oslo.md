@@ -5,7 +5,7 @@ date: "2017-08-29"
 episode_number: "1471"
 episode_url: "https://www.dotnetrocks.com/?show=1471"
 better_know_a_framework:
-- title: ".NET Standard 2.0"
+  title: ".NET Standard 2.0"
   url: "https://docs.microsoft.com/en-us/dotnet/api/?view=netstandard-2.0"
 links:
 - title: "Azure Functions"

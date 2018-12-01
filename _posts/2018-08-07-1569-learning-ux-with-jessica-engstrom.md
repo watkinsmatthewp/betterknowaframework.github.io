@@ -5,7 +5,7 @@ date: "2018-08-07"
 episode_number: "1569"
 episode_url: "https://www.dotnetrocks.com/?show=1569"
 better_know_a_framework:
-- title: "UI Tenets & Traps"
+  title: "UI Tenets & Traps"
   url: "http://uitraps.com/"
 links:
 - title: "iWalk 2.0"

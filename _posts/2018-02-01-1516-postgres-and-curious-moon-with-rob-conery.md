@@ -5,7 +5,7 @@ date: "2018-02-01"
 episode_number: "1516"
 episode_url: "https://www.dotnetrocks.com/?show=1516"
 better_know_a_framework:
-- title: "The Brutal Lifecycle of Javascript Frameworks"
+  title: "The Brutal Lifecycle of Javascript Frameworks"
   url: "https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/"
 links:
 - title: "The Imposter's Handbook"

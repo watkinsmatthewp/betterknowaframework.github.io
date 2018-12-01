@@ -5,7 +5,7 @@ date: "2017-03-23"
 episode_number: "1426"
 episode_url: "https://www.dotnetrocks.com/?show=1426"
 better_know_a_framework:
-- title: "Timer Classes in History"
+  title: "Timer Classes in History"
   url: "https://web.archive.org/web/20150329101415/https://msdn.microsoft.com/en-us/magazine/cc164015.aspx"
 links:
 - title: "Beyond Legacy Code"

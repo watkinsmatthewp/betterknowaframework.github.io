@@ -5,7 +5,7 @@ date: "2018-11-20"
 episode_number: "1599"
 episode_url: "https://www.dotnetrocks.com/?show=1599"
 better_know_a_framework:
-- title: "C# Algorithms"
+  title: "C# Algorithms"
   url: "https://github.com/TheAlgorithms/C-Sharp"
 links:
 - title: "Windows Server 2019 in GA"

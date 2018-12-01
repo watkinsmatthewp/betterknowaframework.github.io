@@ -5,7 +5,7 @@ date: "2016-03-15"
 episode_number: "1269"
 episode_url: "https://www.dotnetrocks.com/?show=1269"
 better_know_a_framework:
-- title: "Two Keto Dudes"
+  title: "Two Keto Dudes"
   url: "http://2ketodudes.com/"
 links:
 - title: "VanillaJS"

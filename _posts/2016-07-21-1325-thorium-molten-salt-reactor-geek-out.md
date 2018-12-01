@@ -5,7 +5,7 @@ date: "2016-07-21"
 episode_number: "1325"
 episode_url: "https://www.dotnetrocks.com/?show=1325"
 better_know_a_framework:
-- title: "New Old Style Boombox"
+  title: "New Old Style Boombox"
   url: "https://www.youtube.com/watch?v=2QGWyxI-ZPs"
 links:
 - title: "m5bat"

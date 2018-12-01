@@ -5,7 +5,7 @@ date: "2018-06-07"
 episode_number: "1552"
 episode_url: "https://www.dotnetrocks.com/?show=1552"
 better_know_a_framework:
-- title: "Alexa and Siri Can Hear Things You Can't"
+  title: "Alexa and Siri Can Hear Things You Can't"
   url: "https://www.msn.com/en-ca/money/topstories/alexa-and-siri-can-hear-this-hidden-command-you-can’t/ar-AAx40Ja?li=AAggNb9"
 links:
 - title: "Uno"

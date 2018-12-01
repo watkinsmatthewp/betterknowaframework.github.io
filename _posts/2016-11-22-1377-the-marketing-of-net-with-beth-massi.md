@@ -5,7 +5,7 @@ date: "2016-11-22"
 episode_number: "1377"
 episode_url: "https://www.dotnetrocks.com/?show=1377"
 better_know_a_framework:
-- title: "Directed Graph Markup Language"
+  title: "Directed Graph Markup Language"
   url: "https://msdn.microsoft.com/en-us/library/dn966108.aspx"
 links:
 - title: "Beth's Blog"

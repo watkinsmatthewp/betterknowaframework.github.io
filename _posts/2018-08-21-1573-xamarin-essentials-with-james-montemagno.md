@@ -5,7 +5,7 @@ date: "2018-08-21"
 episode_number: "1573"
 episode_url: "https://www.dotnetrocks.com/?show=1573"
 better_know_a_framework:
-- title: "Postman"
+  title: "Postman"
   url: "http://getpostman.com"
 links:
 - title: "Xamarin"

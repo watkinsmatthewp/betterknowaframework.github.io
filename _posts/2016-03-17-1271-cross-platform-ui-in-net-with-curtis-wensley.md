@@ -5,7 +5,7 @@ date: "2016-03-17"
 episode_number: "1271"
 episode_url: "https://www.dotnetrocks.com/?show=1271"
 better_know_a_framework:
-- title: "HashSet of T"
+  title: "HashSet of T"
   url: "https://msdn.microsoft.com/en-us/library/bb359438(v=vs.110).aspx"
 links:
 - title: "eto.forms"

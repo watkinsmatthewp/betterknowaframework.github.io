@@ -5,7 +5,7 @@ date: "2018-10-30"
 episode_number: "1593"
 episode_url: "https://www.dotnetrocks.com/?show=1593"
 better_know_a_framework:
-- title: "SoapBox"
+  title: "SoapBox"
   url: "https://wistia.com/soapbox"
 links:
 - title: "Ring"

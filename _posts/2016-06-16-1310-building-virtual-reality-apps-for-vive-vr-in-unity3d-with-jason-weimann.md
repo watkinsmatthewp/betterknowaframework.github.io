@@ -5,7 +5,7 @@ date: "2016-06-16"
 episode_number: "1310"
 episode_url: "https://www.dotnetrocks.com/?show=1310"
 better_know_a_framework:
-- title: "Azure Active Directory vs Identity Server"
+  title: "Azure Active Directory vs Identity Server"
   url: "http://rehansaeed.com/azure-active-directory-versus-identity-server/"
 links:
 - title: "Unity3D.College"

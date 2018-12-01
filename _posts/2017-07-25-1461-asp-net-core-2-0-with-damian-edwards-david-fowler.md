@@ -5,7 +5,7 @@ date: "2017-07-25"
 episode_number: "1461"
 episode_url: "https://www.dotnetrocks.com/?show=1461"
 better_know_a_framework:
-- title: "SkiaSharp"
+  title: "SkiaSharp"
   url: "https://www.nuget.org/packages/SkiaSharp"
 links:
 - title: "Tech Empower"

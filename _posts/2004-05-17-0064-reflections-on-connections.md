@@ -1,0 +1,36 @@
+---
+layout: episode
+title: "Reflections on Connections"
+date: "2004-05-17"
+episode_number: "64"
+episode_url: "https://www.dotnetrocks.com/?show=64"
+links:
+- title: "Chris Sells' XML DevCon"
+  url: "http://www.sellsbrothers.com/conference/"
+- title: "DevConnections Developer Conference"
+  url: "http://www.devconnections.com"
+- title: "VSLive"
+  url: "http://www.ftponline.com/conferences/vslive/"
+- title: "DevTeach Developer Conference (Montreal)"
+  url: "http://www.devteach.com"
+- title: "Microsoft TechEd Developer Conference"
+  url: "http://www.microsoft.com/seminar/teched2004/default.mspx"
+- title: "X1 - A little bit of WINFS for Windows XP"
+  url: "http://www.x1.com"
+- title: "Always Use Protection by Dan Appleman"
+  url: "http://www.alwaysuseprotection.com"
+- title: "Contact Dan Appleman if you want to write a book for Apress"
+  url: "mailto:dan@desaware.com"
+- title: "Geek Cruises"
+  url: "http://www.geekcruises.com/"
+- title: "Maine Hysterical Society"
+  url: "http://www.mainehysterical.com"
+- title: "Clementine"
+  url: "http://www.bestofclementine.com"
+- title: "Internet Planet Conference by Jupiter Media"
+  url: "http://www.internetplanet.com/agenda2.html"
+- title: "Cartoon of Rory riding a unicycle to work wearing a monocle by <b><a href='http://www.techtoons.com'>TechToons</a></b><P> <img alt='Rory riding to work on a unicycle with a monocle.' border=0 src='/rory3.gif'>"
+  url: ""
+---
+
+What started out as a show about the DevConnections Developer Conference morphed into a round-table chat with Dan Appleman, Kathleen Dollard, Mark Dunn, Don Kiely, Robert Scoble, Chris Sells, and Bill Vaughn about developer conferences like DevConnections, writing books, speaking, and various other aspects of the industry. Of course, it was lots of fun too.

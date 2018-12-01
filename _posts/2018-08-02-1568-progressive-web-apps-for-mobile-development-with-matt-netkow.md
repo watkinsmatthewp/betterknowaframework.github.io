@@ -1,0 +1,43 @@
+---
+layout: episode
+title: "Progressive Web Apps for Mobile Development"
+date: "2018-08-02"
+episode_number: "1568"
+episode_url: "https://www.dotnetrocks.com/?show=1568"
+better_know_a_framework:
+- title: "Electric Scooter Sharing"
+  url: "https://www.limebike.com/electric-scooter"
+links:
+- title: "PhoneGap"
+  url: "https://phonegap.com/"
+- title: "PhoneGap Plugins"
+  url: "https://build.phonegap.com/plugins"
+- title: "Cordova"
+  url: "https://cordova.apache.org/"
+- title: "Cordova Plugins"
+  url: "https://cordova.apache.org/plugins/"
+- title: "React Native"
+  url: "https://facebook.github.io/react-native/"
+- title: "Flutter"
+  url: "https://flutter.io/"
+- title: "Xamarin"
+  url: "https://visualstudio.microsoft.com/xamarin/"
+- title: "NativeScript"
+  url: "https://www.nativescript.org/"
+- title: "ElectronJS"
+  url: "https://electronjs.org/"
+- title: "Progressive Web Apps"
+  url: "https://developers.google.com/web/progressive-web-apps/"
+- title: "Angular"
+  url: "https://angular.io/"
+- title: "WebComponents"
+  url: "https://www.webcomponents.org/"
+- title: "Matt's Pluralsight Course on PhoneGap"
+  url: "https://www.pluralsight.com/authors/matt-netkow"
+- title: "Ionic Framework"
+  url: "https://ionicframework.com/"
+- title: "Ionic PWA Resources"
+  url: "https://ionicframework.com/pwa"
+---
+
+So many ways to build mobile apps - what works best for you? Carl and Richard talk to Matt Netkow about the past, present and future of PhoneGap and how the Progressive Web App is playing in the mobile dev world. Matt talks about the many JavaScript-based solutions for mobile cross-platform development including PhoneGap, Cordova, NativeScript and Ionic. But with Progressive Web Apps being supported by browsers on mobile devices, could you just be writing native Javascript for your web app? Lots of good discussion!

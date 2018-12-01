@@ -1,0 +1,38 @@
+---
+layout: episode
+title: "Chris Sells Checks In"
+date: "2004-10-11"
+episode_number: "84"
+episode_url: "https://www.dotnetrocks.com/?show=84"
+links:
+- title: "Carl Franklin quoted in Wired Magazine about Podcasting"
+  url: "http://www.shrinkster.com/1br"
+- title: "Fanzoo's Amazing Dot Net Rocks Praise Generator!"
+  url: " http://www.shrinkster.com/1cg"
+- title: "MSDN Canada!"
+  url: "http://msdn.microsoft.com/canada/"
+- title: "News: Rory's link to the Wired Podcasting article"
+  url: "http://www.shrinkster.com/1cc"
+- title: "News: XAMLon"
+  url: "http://www.shrinkster.com/1ce"
+- title: "Chris Sells' Website"
+  url: "http://www.sellsbrothers.com"
+- title: "Burning Man Festival"
+  url: "http://www.burningman.com/"
+- title: "Chris' XML DevCon Page"
+  url: "http://www.sellsbrothers.com/conference/"
+- title: "Weird: The Soluble Song"
+  url: "http://www.shrinkster.com/1ca"
+- title: "Weird: My Mother Is Insane"
+  url: "http://www.shrinkster.com/1cb"
+- title: "Weird: Zorb"
+  url: "http://www.zorb.com"
+- title: "Vote to kill Kirk or let him live"
+  url: "http://www.franklins.net/WebbPoll"
+- title: "Franklin Brothers Music"
+  url: "http://www.pwop.com/fbros.aspx"
+- title: "Ask Rory: Shocking News Story"
+  url: "http://www.shrinkster.com/1c8"
+---
+
+.NET Rocks! regular guest (and guest host) Chris Sells joins Carl and the gang for a really fun discussion (after he comments on the mail and news) about Longhorn and WinFX, Longhorn features on XP, working on the MSDN Smart Client DevCenter, VS.NET 2005, learning about new technologies, learning by teaching, and Avalon. He answers some good technical questions from live listeners, and overall makes the two hours fly by. Of course you get the mail, news of the week, Weird Wide Webb, and Ask Rory. Richard is away this week so Carl gave away an iPod to a lucky listener!

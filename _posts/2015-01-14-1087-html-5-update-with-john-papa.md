@@ -1,0 +1,36 @@
+---
+layout: episode
+title: "HTML 5 Update"
+date: "2015-01-14"
+episode_number: "1087"
+episode_url: "https://www.dotnetrocks.com/?show=1087"
+links:
+- title: "John's Background Switcher"
+  url: "http://johnsad.ventures/software/backgroundswitcher/windows/"
+- title: "WebComponents"
+  url: "http://webcomponents.org/"
+- title: "Adventures in Angular"
+  url: "http://devchat.tv/adventures-in-angular/"
+- title: "Angular2"
+  url: "http://angular2.com/"
+- title: "Jasmine"
+  url: "http://jasmine.github.io/"
+- title: "Mocha"
+  url: "http://unitjs.com/guide/mocha.html"
+- title: "Karma"
+  url: "http://karma-runner.github.io/0.12/index.html"
+- title: "GulpJS"
+  url: "http://gulpjs.com/"
+- title: "GruntJS"
+  url: "http://gruntjs.com/"
+- title: "FireBase"
+  url: "https://www.firebase.com/"
+- title: "Ionic Framework"
+  url: "http://ionicframework.com/"
+- title: "Famous 3D Layout Engine"
+  url: "https://famo.us/"
+- title: "AngularJS Style Guide"
+  url: "https://github.com/johnpapa/angularjs-styleguide"
+---
+
+Ready to think beyond the SPA? John Papa talks about the continuing evolution of HTML 5. Carl and Richard chat with John about web components, an evolving standard to make JavaScript libraries more extensible and organized. AngularJS comes out in the conversation as well, especially version 2 with its breaking changes - but you don't need to migrate if you don't want to. V1 will continue development. John also digs into his current suite of tools for building, deploying, and debugging web pages. The technology is maturing, and that means better tools!

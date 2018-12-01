@@ -1,0 +1,41 @@
+---
+layout: episode
+title: "Progressive Web Apps"
+date: "2016-11-30"
+episode_number: "1381"
+episode_url: "https://www.dotnetrocks.com/?show=1381"
+better_know_a_framework:
+- title: "SignalR for Python"
+  url: "https://github.com/TargetProcess/signalr-client-py"
+links:
+- title: "Kirupa's Blog"
+  url: "https://www.kirupa.com/"
+- title: "vanilla.js"
+  url: "http://vanilla-js.com/"
+- title: "Average Web Page the Size of Doom"
+  url: "https://www.wired.com/2016/04/average-webpage-now-size-original-doom/"
+- title: "Service Worker Samples"
+  url: "https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker"
+- title: "Vue Progressive JavaScript Framework"
+  url: "https://vuejs.org/"
+- title: "React"
+  url: "https://facebook.github.io/react/"
+- title: "KnockoutJS"
+  url: "http://knockoutjs.com/"
+- title: "EmberJS"
+  url: "http://emberjs.com/"
+- title: "WebComponents"
+  url: "http://webcomponents.org/"
+- title: "Polymer"
+  url: "https://www.polymer-project.org/1.0/"
+- title: "Meteor"
+  url: "https://www.meteor.com/"
+- title: "Ionic Framework"
+  url: "http://ionicframework.com/"
+- title: "Progressive Web Apps Collection"
+  url: "https://pwa.rocks/"
+- title: "Electron"
+  url: "http://electron.atom.io/"
+---
+
+What the heck is a Progressive Web App? Carl and Richard talk to Kirupa Chinnathambi about his experiences building at the edge of the modern web with Progressive Web Apps (PWAs). PWAs are trying to bridge the gap between traditional applications and web applications, starting with keeping a web app functional when there is an interruption in Internet connection. But it's more than that - how do you appear as an icon on a desktop or app surface, provide notifications and otherwise look and act like every other kind of application? Check it out!

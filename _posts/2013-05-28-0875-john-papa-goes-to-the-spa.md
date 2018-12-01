@@ -1,0 +1,36 @@
+---
+layout: episode
+title: "John Papa Goes to the SPA"
+date: "2013-05-28"
+episode_number: "875"
+episode_url: "https://www.dotnetrocks.com/?show=875"
+links:
+- title: "Kinect for Windows 2"
+  url: "http://www.zdnet.com/microsoft-says-new-kinect-for-windows-sensor-coming-in-2014-7000015821/"
+- title: "VanillaJS"
+  url: "http://vanilla-js.com/"
+- title: "KnockoutJS"
+  url: "http://knockoutjs.com/"
+- title: "AngularJS"
+  url: "http://angularjs.org/"
+- title: "DurandalJS"
+  url: "http://durandaljs.com/"
+- title: "SammyJS"
+  url: "http://www.sammyjs.org/"
+- title: "HistoryJS"
+  url: "http://balupton.github.io/history.js/demo/"
+- title: "SpineJS"
+  url: "http://spinejs.com/"
+- title: "EmberJS"
+  url: "http://emberjs.com/"
+- title: "TelekenesisJS"
+  url: "http://www.youtube.com/watch?v=_CBU8slKeN8"
+- title: "Browserstack"
+  url: "http://www.browserstack.com/"
+- title: "Glimpse"
+  url: "http://getglimpse.com/"
+- title: "WebEssentials"
+  url: "http://visualstudiogallery.msdn.microsoft.com/6ed4c78f-a23e-49ad-b5fd-369af0c2107f"
+---
+
+Carl and Richard talk to John Papa about Single Page Applications (SPA) - building web applications that operate on a single page for the duration of execution. John talks about the evolution of web design that has led to the SPA concept - the pros and cons of the approach as well. From there the conversation digs into the sets of open source libraries for making SPA easier to build and maintain. There is no one right way and lots of choice out there, check out the links below!

@@ -1,0 +1,43 @@
+---
+layout: episode
+title: "Mobile Games using Xamarin Forms and Azure Service Fabric"
+date: "2017-04-25"
+episode_number: "1435"
+episode_url: "https://www.dotnetrocks.com/?show=1435"
+better_know_a_framework:
+- title: "All This Time"
+  url: "https://www.youtube.com/watch?v=TvVNxqosZ7s"
+links:
+- title: "Intel Hardware Accelerated Execution Manager"
+  url: "https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager"
+- title: "NBALife"
+  url: "http://nbalife.com/"
+- title: "Xamarin Forms"
+  url: "https://www.xamarin.com/forms"
+- title: "Animation in Xamarin Forms"
+  url: "https://developer.xamarin.com/guides/xamarin-forms/user-interface/animation/"
+- title: "Optimizing App Performance with Xamarin.Forms"
+  url: "https://evolve.xamarin.com/session/56e205b0bad314273ca4d817"
+- title: "Orleans"
+  url: "https://dotnet.github.io/orleans/"
+- title: "Azure Service Fabric"
+  url: "https://azure.microsoft.com/en-us/services/service-fabric/"
+- title: "Akka.NET"
+  url: "http://getakka.net/"
+- title: "Draw a Stickman"
+  url: "http://www.hitcents.com/games/stickman-epic"
+- title: "Hanx Writer"
+  url: "http://www.hitcents.com/b2b/work/hanx"
+- title: "SpecFlow"
+  url: "http://specflow.org/"
+- title: "NUnit"
+  url: "https://www.nunit.org/"
+- title: "xUnit"
+  url: "https://xunit.github.io/"
+- title: "HockeyApp"
+  url: "https://hockeyapp.net/"
+- title: "CouchBase"
+  url: "https://www.couchbase.com/"
+---
+
+You can make a game in Xamarin Forms? Yes! Carl and Richard talk to Jonathan Peppers about his latest work on NBA Life, a role-playing game for iOS and Android built with Xamarin Forms. Jonathan talks about the process they went through to decide on this particular architecture for the game, having done prototyping with Unity and Xamarin Native. The conversation also digs into the back end using Azure Service Fabric and it's Actor Model support - yes, everything is an actor! Lots of discussion around testing, deployment, crash handling and dealing with app stores. Building mobile games isn't always a pure native experience - you have choices!

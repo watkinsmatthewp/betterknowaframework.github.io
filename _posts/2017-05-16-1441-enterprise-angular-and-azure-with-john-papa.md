@@ -1,0 +1,41 @@
+---
+layout: episode
+title: "Enterprise Angular and Azure"
+date: "2017-05-16"
+episode_number: "1441"
+episode_url: "https://www.dotnetrocks.com/?show=1441"
+better_know_a_framework:
+- title: "I'm an Idiot"
+  url: "https://xkcd.com/530/"
+links:
+- title: "John's Blog"
+  url: "https://johnpapa.net/"
+- title: "Angular 4"
+  url: "https://angular.io/"
+- title: "AngularMix"
+  url: "http://angularmix.com"
+- title: "Ember CLI"
+  url: "https://ember-cli.com/"
+- title: "Angular CLI"
+  url: "https://cli.angular.io/"
+- title: "JavaScriptServices"
+  url: "https://github.com/aspnet/JavaScriptServices"
+- title: "Azure Functions"
+  url: "https://azure.microsoft.com/en-us/services/functions/"
+- title: "Ahead-of-Time Compilation"
+  url: "https://angular.io/docs/ts/latest/cookbook/aot-compiler.html"
+- title: "Angular Style Guide"
+  url: "https://angular.io/styleguide"
+- title: "Semantic Versioning"
+  url: "http://semver.org/"
+- title: "TypeScript"
+  url: "https://www.typescriptlang.org/"
+- title: "Angular Language Service"
+  url: "https://marketplace.visualstudio.com/items?itemName=Angular.ng-template"
+- title: "Upgrading from AngularJS"
+  url: "https://angular.io/docs/ts/latest/guide/upgrade.html"
+- title: "One with Angular API"
+  url: "https://github.com/johnpapa/one-with-angular-api"
+---
+
+Is Angular ready for the enterprise? Carl and Richard talk to John Papa about the latest version of Angular and it's applicability in every day enterprise development. John discusses how the fast-moving updates of open source projects are a challenge for enterprise developers and the solutions available - you don't have to always use the latest bits! The role of the cloud (specifically Azure) is also explored, and John talks about Azure Functions as a great way to build server-side elements of your application quickly and painlessly, without a lot of ceremony and provisioning. And if you think that's cool, you want to come to AngularMix, Oct 10-12 at Universal Studios in Orlando, Florida!

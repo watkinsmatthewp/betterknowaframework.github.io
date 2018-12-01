@@ -1,0 +1,41 @@
+---
+layout: episode
+title: "ASP.NET Core Opinionated Approach"
+date: "2017-01-25"
+episode_number: "1405"
+episode_url: "https://www.dotnetrocks.com/?show=1405"
+better_know_a_framework:
+- title: "Functional JavaScript"
+  url: "https://gziolo.pl/2016/12/21/exploring-functional-javascript/"
+links:
+- title: "ASP.NET Core"
+  url: "https://www.asp.net/core"
+- title: "Serilog"
+  url: "https://serilog.net/"
+- title: "DreamSpark for Students"
+  url: "https://azure.microsoft.com/en-gb/pricing/member-offers/imagine/"
+- title: "FeatureFolders"
+  url: "https://github.com/OdeToCode/AddFeatureFolders"
+- title: "MediatR"
+  url: "https://github.com/jbogard/MediatR"
+- title: "WebPack"
+  url: "https://webpack.github.io/"
+- title: "JavaScript Services"
+  url: "https://github.com/aspnet/JavaScriptServices"
+- title: "npm"
+  url: "https://www.npmjs.com/"
+- title: "Bower"
+  url: "https://bower.io/"
+- title: "BabelJS"
+  url: "https://babeljs.io/"
+- title: "TypeScript"
+  url: "https://www.typescriptlang.org/"
+- title: "DefinitelyTyped"
+  url: "http://definitelytyped.org/"
+- title: "Jasmine"
+  url: "https://jasmine.github.io/"
+- title: "xUnit"
+  url: "http://xunit.github.io/"
+---
+
+So what's the right way to use ASP.NET Core? There may not be one right way, but there are plenty of opinions, and Scott Allen has some! While at NDC in London, Carl and Richard chat with Scott about his preferences for building ASP.NET Core apps. Scott digs into project organization, keeping projects and folder structures aligned, keeping elements related to features together and more. Many of the defaults around an ASP.NET Core project are arbitrary - you can do things the way you want to do them. The challenge is just putting some thought into it!

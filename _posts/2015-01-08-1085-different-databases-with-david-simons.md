@@ -1,0 +1,38 @@
+---
+layout: episode
+title: "Different Databases"
+date: "2015-01-08"
+episode_number: "1085"
+episode_url: "https://www.dotnetrocks.com/?show=1085"
+links:
+- title: "Cosmos OS"
+  url: "http://cosmos.codeplex.com/"
+- title: "MongoDB"
+  url: "http://www.mongodb.org/"
+- title: "Eloquera"
+  url: "http://eloquera.com/"
+- title: "Voldemort"
+  url: "http://www.project-voldemort.com/voldemort/"
+- title: "Hadoop"
+  url: "http://hadoop.apache.org/"
+- title: "Lambda Architecture"
+  url: "http://lambda-architecture.net/"
+- title: "Apache HBase"
+  url: "http://hbase.apache.org/"
+- title: "ElasticSearch on GitHub"
+  url: "https://github.com/elasticsearch/elasticsearch"
+- title: "Neo4j"
+  url: "http://neo4j.com/"
+- title: "OrientDB"
+  url: "http://www.orientechnologies.com/"
+- title: "ArangoDB"
+  url: "https://www.arangodb.com/"
+- title: "Apache Marmotta"
+  url: "http://marmotta.apache.org/"
+- title: "TempoIQ"
+  url: "https://www.tempoiq.com/"
+- title: "PostgreSQL"
+  url: "http://www.postgresql.org/"
+---
+
+How many different ways can you store data? David Simons knows at least ten! Carl and Richard talk to David about a wide variety of data storage approaches. Some are SQL, some are NoSQL, but David digs into each one talking about strengths and weaknesses. The conversation digs into the idea that using one data store for all purposes is archaic - while it always depends on your application's needs, have two, three, or four different data stores isn't crazy! David talks about various classes of data stores including graph, object, time series, relational, and more... there are lots of ways to store your data, and with the right store, coding and maintaining get easier! The trick is to deal with the essentials of every data store: reliability, backup, and recovery. Here's a great list of choices for your app!

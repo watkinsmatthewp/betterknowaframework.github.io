@@ -1,0 +1,41 @@
+---
+layout: episode
+title: "Going Serverless using WebTask"
+date: "2016-12-20"
+episode_number: "1389"
+episode_url: "https://www.dotnetrocks.com/?show=1389"
+better_know_a_framework:
+- title: "WebTask"
+  url: "https://webtask.io?utm_medium=podcast&amp;utm_campaign=webtask&amp;utm_source=dotnetrocks"
+links:
+- title: "Slash WebTask"
+  url: "https://webtask.io/slack?utm_medium=podcast&amp;utm_campaign=slashwebtask&amp;utm_source=dotnetrocks"
+- title: "Auth0"
+  url: "https://auth0.com?utm_medium=podcast&amp;utm_campaign=webtask&amp;utm_source=dotnetrocks"
+- title: "Comma.ai"
+  url: "https://www.engadget.com/2016/11/30/geohot-open-sources-semi-autonomous-technology/"
+- title: "ScriptCS"
+  url: "http://scriptcs.net/"
+- title: "JewelBots"
+  url: "http://www.jewelbots.com/"
+- title: "Cloud9"
+  url: "https://c9.io/"
+- title: "Visual Studio Code"
+  url: "https://code.visualstudio.com/"
+- title: "Splunk"
+  url: "https://www.splunk.com/"
+- title: "Intercom"
+  url: "https://www.intercom.com/"
+- title: "ZenDesk"
+  url: "https://www.zendesk.com/"
+- title: "Zapier"
+  url: "https://zapier.com/"
+- title: "HipChat"
+  url: "https://www.hipchat.com/"
+- title: "Slack"
+  url: "https://slack.com/"
+- title: "Heroku"
+  url: "https://www.heroku.com/"
+---
+
+There are more ways to go serverless! Carl and Richard talk to Glenn Block about his work with WebTask. WebTask uses nodeJS to build services that are unique units of work with their own scalability. Glenn also talks about using WebTask as a Webhook, allowing you to do call backs based on an activity - it's this tooling that can help you automated builds and deployments and more. Using the Webhook approach, Glenn digs into techniques for building custom commands for Slack and a bunch of other environments - WebTask can become cloud-driven glue for your apps!

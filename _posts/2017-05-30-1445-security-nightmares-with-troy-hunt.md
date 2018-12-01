@@ -1,0 +1,36 @@
+---
+layout: episode
+title: "Security Nightmares"
+date: "2017-05-30"
+episode_number: "1445"
+episode_url: "https://www.dotnetrocks.com/?show=1445"
+links:
+- title: "Peer5"
+  url: "https://www.peer5.com/"
+- title: "Troy's Website"
+  url: "https://www.troyhunt.com/"
+- title: "Have I Been Pwned?"
+  url: "https://haveibeenpwned.com/"
+- title: "CloudPets"
+  url: "http://cloudpets.com/"
+- title: "MongoDB Exploit on RunAsRadio"
+  url: "http://runasradio.com/Shows/Show/519"
+- title: "Free Ransomware Course"
+  url: "https://www.varonis.com/learn/introduction-to-ransomware/"
+- title: "No More Ransom"
+  url: "https://www.nomoreransom.org/"
+- title: "Windows Defender"
+  url: "https://www.microsoft.com/en-us/windows/windows-defender"
+- title: "Lets Encrypt"
+  url: "https://letsencrypt.org/"
+- title: "Internet of Shit"
+  url: "https://twitter.com/internetofshit"
+- title: "HTTP vs HTTPS"
+  url: "https://www.httpvshttps.com/"
+- title: "Duty Calls"
+  url: "https://imgs.xkcd.com/comics/duty_calls.png"
+- title: "CloudFlare"
+  url: "https://www.cloudflare.com/"
+---
+
+Troy is back, put on your tinfoil hat and get under the bed! Carl and Richard talk to Troy Hunt about the latest security exploits going around. Ransomware is hitting new highs, where a user's files get encrypted via malware, and the only way to get them back is to pay a ransom in Bitcoin. Or are there other ways to recover? And don't be so sure paying the ransom will fix anything, there are some unscrupulous criminals out there that just delete your files instead! The conversation also dives into the comprehensive move of the World Wide Web over to HTTPS - and with HTTP/2, HTTPS can actually be faster than HTTP!

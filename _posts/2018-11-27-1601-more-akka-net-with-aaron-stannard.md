@@ -1,0 +1,41 @@
+---
+layout: episode
+title: "More Akka.NET"
+date: "2018-11-27"
+episode_number: "1601"
+episode_url: "https://www.dotnetrocks.com/?show=1601"
+better_know_a_framework:
+- title: "Airbnb JavaScript Style Guide"
+  url: "https://github.com/airbnb/javascript"
+links:
+- title: "Aeron Networking"
+  url: "https://github.com/real-logic/aeron"
+- title: "Akka.NET"
+  url: "http://getakka.net/"
+- title: "petabridge.cmd"
+  url: "https://cmd.petabridge.com/"
+- title: "Phobos"
+  url: "https://phobos.petabridge.com/"
+- title: "Azure Application Insights"
+  url: "https://azure.microsoft.com/services/monitor/"
+- title: "Zipkin"
+  url: "https://zipkin.io/"
+- title: "Orleans"
+  url: "http://dotnet.github.io/orleans/"
+- title: "Unity3D"
+  url: "https://unity3d.com/"
+- title: "SignalR"
+  url: "https://www.asp.net/signalr"
+- title: "Akka.Cluster"
+  url: "https://getakka.net/articles/clustering/cluster-overview.html"
+- title: "Dapper"
+  url: "https://ai.google/research/pubs/pub36356"
+- title: "IntelliTrace"
+  url: "https://docs.microsoft.com/visualstudio/debugger/intellitrace"
+- title: "DynaTrace"
+  url: "https://www.dynatrace.com/"
+- title: "RabbitMQ"
+  url: "https://www.rabbitmq.com/"
+---
+
+You need more actors in your life! Carl and Richard talk to Aaron Stannard about the latest around Akka.NET, an open source actor model framework that has been evolving and growing for a number of years. Aaron talks about how his company Petabridge is providing professional services around Akka.NET including some custom tooling like a CLI tool called CMD. The conversation also dives into utilizing actors outside of just the server - actors make sense in mobile devices and IoT to name two! It's a different way to think, but actors can help you work concurrently and asynchronously - and who doesn't want to do that?

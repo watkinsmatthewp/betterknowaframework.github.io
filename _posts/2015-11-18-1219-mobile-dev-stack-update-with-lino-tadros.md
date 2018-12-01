@@ -1,0 +1,36 @@
+---
+layout: episode
+title: "Mobile Dev Stack Update"
+date: "2015-11-18"
+episode_number: "1219"
+episode_url: "https://www.dotnetrocks.com/?show=1219"
+links:
+- title: "Developing for NASA's Voyager"
+  url: "http://www.geek.com/science/nasa-seeks-programmer-fluent-in-60-year-old-languages-to-work-on-voyager-1638276/"
+- title: "Ionic Framework"
+  url: "http://ionicframework.com/"
+- title: "Xamarin"
+  url: "https://xamarin.com/"
+- title: "RoboVM"
+  url: "https://robovm.com/"
+- title: "Kendo UI"
+  url: "http://www.telerik.com/kendo-ui"
+- title: "Xamarin Forms for Prototyping"
+  url: "https://blog.xamarin.com/rapid-mobile-app-prototyping-with-xamarin-forms/"
+- title: "NativeScript"
+  url: "https://www.nativescript.org/"
+- title: "Cordova for Visual Studio"
+  url: "https://www.visualstudio.com/en-us/features/cordova-vs.aspx"
+- title: "Visual Studio Code"
+  url: "https://code.visualstudio.com/"
+- title: "MvvmCross"
+  url: "https://github.com/MvvmCross/MvvmCross"
+- title: "MVVM Light"
+  url: "http://www.mvvmlight.net/"
+- title: "Xamarin Test Cloud"
+  url: "https://xamarin.com/test-cloud"
+- title: "Smartbear TestComplete"
+  url: "http://smartbear.com/product/testcomplete/overview/"
+---
+
+How is mobile development evolving? Carl and Richard talk to Lino Tadros about his current work building mobile apps with lots of different technologies. Lino talks about build mobile apps natively with Objective-C and Java as well as a variety of hybrid approaches: C# using Xamarin, Javascript/HTML with Cordova and even good old fashion responsive web design. So what works best for you? Lino highlights some strengths and weaknesses of the different platforms, recognizing that it mostly comes down to skillset - what tools are you most comfortable with? That's what ultimately makes the difference. No matter how good a tool is, your ability to use it has the largest impact on how well your mobile app turns out.

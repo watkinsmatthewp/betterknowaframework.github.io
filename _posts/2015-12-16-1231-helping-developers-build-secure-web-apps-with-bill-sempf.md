@@ -1,0 +1,38 @@
+---
+layout: episode
+title: "Helping Developers Build Secure Web Apps"
+date: "2015-12-16"
+episode_number: "1231"
+episode_url: "https://www.dotnetrocks.com/?show=1231"
+links:
+- title: "Starwood Security Breach"
+  url: "http://www.zdnet.com/article/starwood-hotels-fall-prey-to-point-of-sale-malware/"
+- title: "ScotNetRocks!"
+  url: "https://docs.google.com/forms/d/1GrJUlLesLd9_dlIwBc1P7mvgu2kwID7WK6kBbYQMvaA/closedform"
+- title: "OWASP .NET Project"
+  url: "https://www.owasp.org/index.php/Category:OWASP_.NET_Project"
+- title: "WebGoat"
+  url: "http://webgoat.github.io/"
+- title: "OWASP Proactive Controls"
+  url: "https://www.owasp.org/index.php/OWASP_Proactive_Controls"
+- title: "DefCon"
+  url: "https://www.defcon.org/"
+- title: "Rubber Ducky"
+  url: "http://hakshop.myshopify.com/products/usb-rubber-ducky"
+- title: "LAN Turtle"
+  url: "https://lanturtle.com/"
+- title: "Top 10 Security Vulnerabilities for .NET Developers"
+  url: "http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html"
+- title: "OWASP .NET Security Cheat Sheet"
+  url: "https://www.owasp.org/index.php/.NET_Security_Cheat_Sheet"
+- title: "Bouncy Castle Cryptography"
+  url: "http://bouncycastle.org/"
+- title: "WireShark"
+  url: "https://www.wireshark.org/"
+- title: "FireSheep"
+  url: "https://codebutler.github.io/firesheep/"
+- title: "Wifi Pineapple"
+  url: "https://www.wifipineapple.com/"
+---
+
+So what does it take to make your web applications secure? Carl and Richard talk to Bill Sempf about his work educating developers on writing secure software. The conversation focuses on the Open Web Application Security Project (OWASP) and all the resources there for securing your web applications. Bill leads the .NET side of OWASP, providing tools, techniques and links for everything you need to build a more secure web application. You'd be amazed how many great security resources are built into the .NET Framework, you just need to know where to look, and OWASP can help you - check it out!

@@ -1,0 +1,36 @@
+---
+layout: episode
+title: "TypeScript and Beyond"
+date: "2017-07-20"
+episode_number: "1460"
+episode_url: "https://www.dotnetrocks.com/?show=1460"
+links:
+- title: "Holographic Appliance"
+  url: "https://www.youtube.com/watch?v=fggE3VI3NRg"
+- title: "TypeScript"
+  url: "https://www.typescriptlang.org/"
+- title: "Visual Studio Code"
+  url: "https://code.visualstudio.com/"
+- title: "Flow"
+  url: "https://flow.org/"
+- title: "CoffeeScript"
+  url: "http://coffeescript.org/"
+- title: "TypeScript on GitHub"
+  url: "https://github.com/Microsoft/TypeScript"
+- title: "Scratch Programming"
+  url: "https://scratch.mit.edu/"
+- title: "DefinitelyTyped"
+  url: "http://definitelytyped.org/"
+- title: "Angular"
+  url: "https://angular.io/"
+- title: "TypeScript at Slack"
+  url: "https://slack.engineering/typescript-at-slack-a81307fa288d"
+- title: "React"
+  url: "https://facebook.github.io/react/"
+- title: "VueJS"
+  url: "https://vuejs.org/"
+- title: "Rust"
+  url: "https://www.rust-lang.org/en-US/"
+---
+
+The father of C# and TypeScript drops by for a visit! While at Build in Seattle, Carl and Richard talked to the one-and-only Anders Hejlsberg about his work on C# and more recently, TypeScript. Anders in his inevitable style talks through why languages work the way they do, the evolution of both C# and JavaScript, and the role that TypeScript has to play in making web development a better place. Great words from the legend!
